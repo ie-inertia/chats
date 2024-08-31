@@ -1,0 +1,1180 @@
+[Level B1]
+[Conversation 1]
+[Starting Tutor Prompt] Bonjour, comment allez-vous aujourd’hui
+[Tutor Prompt Translation] Hello, how are you today?
+[Student Input] Je suis tres bien merci. Et vos?
+[Student Correction] Je vais très bien, merci. Et vous?
+[Tutor Prompt] Je vais très bien aussi. Comment vous appelez-vous?
+[Tutor Prompt Translation] I am also very well. What is your name?
+[Student Input] Je m’appelle Ahmed. Et toi?
+[Student Correction] Je m’appelle Ahmed. Et vous?
+[Tutor Prompt] Je m’appelle Tangl. Enchanté de vous rencontrer, Ahmed. D’où venez-vous?
+[Tutor Prompt Translation] My name is Tangl. Nice to meet you, Ahmed. Where are you from?
+[Student Input] Je viens de Egypt.
+[Student Correction] Je viens d’Égypte.
+[Tutor Prompt] Ah, l’Égypte ! C’est un pays fascinant. Où habitez-vous en Égypte?
+[Tutor Prompt Translation] Ah, Egypt! It’s a fascinating country. Where do you live in Egypt?
+[Student Input] J’habite au Cairo avec ma famille.
+[Student Correction] J’habite au Caire avec ma famille.
+[Tutor Prompt] Parlez-moi de votre famille. Qui habite avec vous?
+[Tutor Prompt Translation] Tell me about your family. Who lives with you?
+[Student Input] Je vis avec mes parents et deux soeurs.
+[Student Correction] Je vis avec mes parents et deux sœurs.
+[Tutor Prompt] Que font vos parents?
+[Tutor Prompt Translation] What do your parents do?
+[Student Input] Mon père est engineer et ma mère est teacher.
+[Student Correction] Mon père est ingénieur et ma mère est enseignante.
+[Tutor Prompt] Très bien. Et vous, que faites-vous dans la vie?
+[Tutor Prompt Translation] Very good. And you, what do you do in life?
+[Student Input] Je suis étudiant en engineering à l’université.
+[Student Correction] Je suis étudiant en ingénierie à l’université.
+[Tutor Prompt] Quelle spécialité étudiez-vous en ingénierie?
+[Tutor Prompt Translation] What specialty are you studying in engineering?
+[Student Input] J’étudie l’ingénierie électrique.
+[Student Correction] J’étudie l’ingénierie électrique.
+[Tutor Prompt] Pourquoi avez-vous choisi l’ingénierie électrique?
+[Tutor Prompt Translation] Why did you choose electrical engineering?
+[Student Input] Parce que je suis interested in renewable energy et automation.
+[Student Correction] Parce que je suis intéressé par les énergies renouvelables et l’automatisation.
+[Tutor Prompt] C’est une raison admirable. Avez-vous des hobbies?
+[Tutor Prompt Translation] That’s an admirable reason. Do you have any hobbies?
+[Student Input] Oui, j’aime jouer chess et lire sur les dernières technologies.
+[Student Correction] Oui, j’aime jouer aux échecs et lire sur les dernières technologies.
+[Tutor Prompt] Depuis combien de temps jouez-vous aux échecs?
+[Tutor Prompt Translation] How long have you been playing chess?
+[Student Input] Depuis que j’etais un enfant, peut-être dix ans.
+[Student Correction] Depuis que j’étais un enfant, peut-être dix ans.
+[Tutor Prompt] Impressionnant! Vous jouez souvent?
+[Tutor Prompt Translation] Impressive! Do you play often?
+[Student Input] Oui, je joue souvent en ligne avec des strangers.
+[Student Correction] Oui, je joue souvent en ligne avec des inconnus.
+[Tutor Prompt] C’est génial. Quels autres hobbies avez-vous?
+[Tutor Prompt Translation] That’s great. What other hobbies do you have?
+[Student Input] J’aime aussi construire des model airplanes.
+[Student Correction] J’aime aussi construire des modèles d’avions.
+[Tutor Prompt] Intéressant. Vous construisez souvent des modèles d’avions?
+[Tutor Prompt Translation] Interesting. Do you often build model airplanes?
+[Student Input] Oui, quand j’ai du free time.
+[Student Correction] Oui, quand j’ai du temps libre.
+[Tutor Prompt] Avez-vous d’autres activités à l’université?
+[Tutor Prompt Translation] Do you have other activities at the university?
+[Student Input] Oui, je suis membre du club de robotics.
+[Student Correction] Oui, je suis membre du club de robotique.
+[Tutor Prompt] Que faites-vous dans le club de robotique?
+[Tutor Prompt Translation] What do you do in the robotics club?
+[Student Input] Nous construisons des petits robots pour competitions.
+[Student Correction] Nous construisons des petits robots pour des compétitions.
+[Tutor Prompt] C’est fantastique! Avez-vous participé à des compétitions?
+[Tutor Prompt Translation] That’s fantastic! Have you participated in competitions?
+[Student Input] Oui, nous avons participé à plusieurs competitions et gagné des prix.
+[Student Correction] Oui, nous avons participé à plusieurs compétitions et gagné des prix.
+[Tutor Prompt] Félicitations! Quel a été votre projet préféré?
+[Tutor Prompt Translation] Congratulations! What was your favorite project?
+[Student Input] Mon projet préféré était de construire un robot pour solve un labyrinthe.
+[Student Correction] Mon projet préféré était de construire un robot pour résoudre un labyrinthe.
+[Tutor Prompt] Cela semble très difficile. Combien de temps avez-vous pris pour ce projet?
+[Tutor Prompt Translation] That sounds very difficult. How long did you take for this project?
+[Student Input] Nous avons pris environ trois mois pour finish le projet.
+[Student Correction] Nous avons pris environ trois mois pour finir le projet.
+[Tutor Prompt] C’est impressionnant. Avez-vous d’autres projets en cours?
+[Tutor Prompt Translation] That’s impressive. Do you have other projects in progress?
+[Student Input] Oui, nous travaillons sur un nouveau robot pour une compétition en décembre.
+[Student Correction] Oui, nous travaillons sur un nouveau robot pour une compétition en décembre.
+[Tutor Prompt] Bonne chance pour cette compétition! Avez-vous des projets personnels?
+[Tutor Prompt Translation] Good luck for this competition! Do you have personal projects?
+[Student Input] Oui, je travaille sur un model de avion avec énergie solaire.
+[Student Correction] Oui, je travaille sur un modèle d’avion avec énergie solaire.
+[Tutor Prompt] C’est un projet ambitieux. Pourquoi avez-vous choisi l’énergie solaire?
+[Tutor Prompt Translation] That’s an ambitious project. Why did you choose solar energy?
+[Student Input] Parce que c’est renewable et good pour l’environnement.
+[Student Correction] Parce que c’est renouvelable et bon pour l’environnement.
+[Tutor Prompt] Excellente raison. Avez-vous visité d’autres pays pour vos projets?
+[Tutor Prompt Translation] Excellent reason. Have you visited other countries for your projects?
+[Student Input] Oui, j’ai visité la France pour un projet de renewable energy.
+[Student Correction] Oui, j’ai visité la France pour un projet d’énergie renouvelable.
+[Tutor Prompt] Comment était votre expérience en France?
+[Tutor Prompt Translation] How was your experience in France?
+[Student Input] C’était super! J’ai beaucoup appris et amélioré mon français.
+[Student Correction] C’était super! J’ai beaucoup appris et amélioré mon français.
+[Tutor Prompt] C’est formidable. Qu’avez-vous le plus aimé en France?
+[Tutor Prompt Translation] That’s wonderful. What did you like the most in France?
+[Student Input] J’ai aimé la culture, la nourriture et travailler sur le projet.
+[Student Correction] J’ai aimé la culture, la nourriture et travailler sur le projet.
+[Tutor Prompt] Avez-vous un plat français préféré?
+[Tutor Prompt Translation] Do you have a favorite French dish?
+[Student Input] Oui, j’adore le coq au vin.
+[Student Correction] Oui, j’adore le coq au vin.
+[Tutor Prompt] C’est un excellent choix! Vous aimez cuisiner?
+[Tutor Prompt Translation] That’s an excellent choice! Do you like to cook?
+[Student Input] Oui, je cuisine parfois avec ma mère.
+[Student Correction] Oui, je cuisine parfois avec ma mère.
+[Tutor Prompt] Qu’aimez-vous cuisiner ensemble?
+[Tutor Prompt Translation] What do you like to cook together?
+[Student Input] Nous aimons faire des plats égyptiens comme le koshari.
+[Student Correction] Nous aimons faire des plats égyptiens comme le koshari.
+[Tutor Prompt] Le koshari est délicieux. Avez-vous d’autres plats égyptiens préférés?
+[Tutor Prompt Translation] Koshari is delicious. Do you have other favorite Egyptian dishes?
+[Student Input] Oui, j’aime aussi le molokhia et le kebab halla.
+[Student Correction] Oui, j’aime aussi le molokhia et le kebab halla.
+[Tutor Prompt] Ce sont de bons choix. Avez-vous des amis avec qui vous pratiquez le français?
+[Tutor Prompt Translation] Those are good choices. Do you have friends with whom you practice French?
+[Student Input] Oui, j’ai quelques amis à l’université qui parlent français.
+[Student Correction] Oui, j’ai quelques amis à l’université qui parlent français.
+[Tutor Prompt] C’est bien d’avoir des amis pour pratiquer. Comment pratiquez-vous ensemble?
+[Tutor Prompt Translation] It’s good to have friends to practice with. How do you practice together?
+[Student Input] Nous parlons français pendant le lunch et parfois faisons des jeux en français.
+[Student Correction] Nous parlons français pendant le déjeuner et parfois faisons des jeux en français.
+[Tutor Prompt] C’est une excellente façon de pratiquer. Quel type de jeux jouez-vous?
+[Tutor Prompt Translation] That’s an excellent way to practice. What type of games do you play?
+[Student Input] Nous jouons à des jeux de mots et des quizzes en français.
+[Student Correction] Nous jouons à des jeux de mots et des quiz en français.
+[Tutor Prompt] Cela semble amusant et éducatif. Avez-vous d’autres méthodes pour améliorer votre français?
+[Tutor Prompt Translation] That sounds fun and educational. Do you have other methods to improve your French?
+[Student Input] Oui, j’utilise des apps et regarde des films en français.
+[Student Correction] Oui, j’utilise des applications et regarde des films en français.
+[Tutor Prompt] Avez-vous un film français préféré?
+[Tutor Prompt Translation] Do you have a favorite French movie?
+[Student Input] Oui, j’aime beaucoup “Amélie”.
+[Student Correction] Oui, j’aime beaucoup “Amélie”.
+[Tutor Prompt] “Amélie” est un film merveilleux. Que pensez-vous des séries françaises?
+[Tutor Prompt Translation] “Amélie” is a wonderful movie. What do you think about French series?
+[Student Input] Je n’ai pas encore regardé de séries françaises, mais je veux essayer.
+[Student Correction] Je n’ai pas encore regardé de séries françaises, mais je veux essayer.
+[Tutor Prompt] Vous devriez essayer. Les séries peuvent beaucoup aider. Quel type de séries aimez-vous?
+[Tutor Prompt Translation] You should try. Series can help a lot. What type of series do you like?
+[Student Input] J’aime les séries de science-fiction et de drame.
+[Student Correction] J’aime les séries de science-fiction et de drame.
+[Tutor Prompt] Il y a de bonnes séries françaises dans ces genres. Avez-vous des recommandations?
+[Tutor Prompt Translation] There are good French series in these genres. Do you have any recommendations?
+[Student Input] Non, pas encore, mais je vais chercher.
+[Student Correction] Non, pas encore, mais je vais chercher.
+[Tutor Prompt] D’accord, n’hésitez pas à me demander si vous avez besoin d’aide. Avez-vous des questions pour moi?
+[Tutor Prompt Translation] Okay, feel free to ask me if you need help. Do you have any questions for me?
+[Student Input] Oui, comment puis-je améliorer ma prononciation en français?
+[Student Correction] Oui, comment puis-je améliorer ma prononciation en français?
+[Tutor Prompt] Pratiquez régulièrement, écoutez des locuteurs natifs et répétez après eux. Avez-vous essayé des exercices de prononciation?
+[Tutor Prompt Translation] Practice regularly, listen to native speakers, and repeat after them. Have you tried pronunciation exercises?
+[Student Input] Non, pas encore. Pouvez-vous recommander des exercices?
+[Student Correction] Non, pas encore. Pouvez-vous recommander des exercices?
+[Tutor Prompt] Bien sûr, je peux vous recommander des exercices de prononciation en ligne. Voulez-vous des liens?
+[Tutor Prompt Translation] Of course, I can recommend online pronunciation exercises. Would you like some links?
+[Student Input] Oui, je veux bien. Merci.
+[Student Correction] Oui, je veux bien. Merci.
+[Tutor Prompt] Je vous enverrai des liens après notre session. Y a-t-il autre chose que vous voudriez savoir?
+[Tutor Prompt Translation] I will send you the links after our session. Is there anything else you would like to know?
+[Student Input] Oui, j’aimerais savoir quels sont vos hobbies.
+[Student Correction] Oui, j’aimerais savoir quels sont vos hobbies.
+[Tutor Prompt] En tant que bot, je n’ai pas de hobbies, mais j’aime aider les gens à apprendre le français. Quels autres sujets vous intéressent?
+[Tutor Prompt Translation] As a bot, I don’t have hobbies, but I enjoy helping people learn French. What other topics interest you?
+[Student Input] J’aime aussi lire des livres sur la technologie.
+[Student Correction] J’aime aussi lire des livres sur la technologie.
+[Tutor Prompt] Quel est le dernier livre de technologie que vous avez lu?
+[Tutor Prompt Translation] What is the last technology book you read?
+[Student Input] Le dernier livre que j’ai lu s’appelle “The Innovators” par Walter Isaacson.
+[Student Correction] Le dernier livre que j’ai lu s’appelle “Les Innovateurs” par Walter Isaacson.
+[Tutor Prompt] C’est un excellent choix. Qu’est-ce que vous avez le plus aimé dans ce livre?
+[Tutor Prompt Translation] That’s an excellent choice. What did you like the most about this book?
+[Student Input] J’ai aimé apprendre sur les personnes derrière les grandes inventions.
+[Student Correction] J’ai aimé apprendre sur les personnes derrière les grandes inventions.
+[Tutor Prompt] Oui, les histoires des inventeurs sont toujours inspirantes. Avez-vous un inventeur préféré?
+[Tutor Prompt Translation] Yes, the stories of inventors are always inspiring. Do you have a favorite inventor?
+[Student Input] Oui, j’admire beaucoup Nikola Tesla.
+[Student Correction] Oui, j’admire beaucoup Nikola Tesla.
+[Tutor Prompt] Tesla était un génie. Qu’est-ce qui vous inspire le plus chez lui?
+[Tutor Prompt Translation] Tesla was a genius. What inspires you the most about him?
+[Student Input] Son imagination et ses idées révolutionnaires.
+[Student Correction] Son imagination et ses idées révolutionnaires.
+[Tutor Prompt] C’est vrai, il avait une vision incroyable. En parlant de vision, où vous voyez-vous dans dix ans?
+[Tutor Prompt Translation] That’s true, he had an incredible vision. Speaking of vision, where do you see yourself in ten years?
+[Student Input] Je me vois travailler pour une grande compagnie de technologie et aider à developper des solutions innovantes.
+[Student Correction] Je me vois travailler pour une grande compagnie de technologie et aider à développer des solutions innovantes.
+[Tutor Prompt] C’est un objectif admirable. Y a-t-il une entreprise spécifique pour laquelle vous aimeriez travailler?
+[Tutor Prompt Translation] That’s an admirable goal. Is there a specific company you would like to work for?
+[Student Input] J’aimerais travailler pour Google ou Tesla.
+[Student Correction] J’aimerais travailler pour Google ou Tesla.
+[Tutor Prompt] Ce sont des entreprises fantastiques avec beaucoup de potentiel pour l’innovation. Avez-vous des plans pour atteindre cet objectif?
+[Tutor Prompt Translation] Those are fantastic companies with a lot of potential for innovation. Do you have plans to achieve this goal?
+[Student Input] Oui, je veux continuer à apprendre et à developper mes compétences.
+[Student Correction] Oui, je veux continuer à apprendre et à développer mes compétences.
+[Tutor Prompt] C’est une excellente approche. Quels types de compétences voulez-vous développer?
+[Tutor Prompt Translation] That’s an excellent approach. What types of skills do you want to develop?
+[Student Input] Je veux améliorer mes compétences en programmation et en gestion de projets.
+[Student Correction] Je veux améliorer mes compétences en programmation et en gestion de projets.
+[Tutor Prompt] Ce sont des compétences très importantes. Utilisez-vous des outils spécifiques pour la programmation?
+[Tutor Prompt Translation] Those are very important skills. Do you use any specific tools for programming?
+[Student Input] Oui, j’utilise Python et Java pour la plupart de mes projets.
+[Student Correction] Oui, j’utilise Python et Java pour la plupart de mes projets.
+[Tutor Prompt] Ce sont des langages très puissants. Avez-vous un projet préféré que vous avez programmé?
+[Tutor Prompt Translation] Those are very powerful languages. Do you have a favorite project that you have programmed?
+[Student Input] Oui, j’ai créé une application pour monitor les panneaux solaires.
+[Student Correction] Oui, j’ai créé une application pour surveiller les panneaux solaires.
+[Tutor Prompt] C’est impressionnant. Pouvez-vous me dire comment fonctionne votre application?
+[Tutor Prompt Translation] That’s impressive. Can you tell me how your application works?
+[Student Input] L’application collecte les données des panneaux et affiche l’énergie produite en temps réel.
+[Student Correction] L’application collecte les données des panneaux et affiche l’énergie produite en temps réel.
+[Tutor Prompt] C’est une fonctionnalité très utile. Avez-vous des projets pour améliorer cette application?
+[Tutor Prompt Translation] That’s a very useful feature. Do you have any plans to improve this application?
+[Student Input] Oui, je veux ajouter des alerts pour les problèmes de performance.
+[Student Correction] Oui, je veux ajouter des alertes pour les problèmes de performance.
+[Tutor Prompt] C’est une bonne idée. Avez-vous pensé à commercialiser votre application?
+[Tutor Prompt Translation] That’s a good idea. Have you thought about commercializing your application?
+[Student Input] Pas encore, mais peut-être dans le futur.
+[Student Correction] Pas encore, mais peut-être dans le futur.
+[Tutor Prompt] Cela pourrait être une excellente opportunité. Avez-vous d’autres idées de projets?
+[Tutor Prompt Translation] That could be a great opportunity. Do you have other project ideas?
+[Student Input] Oui, je pense à créer un système de maison intelligente.
+[Student Correction] Oui, je pense à créer un système de maison intelligente.
+[Tutor Prompt] Les maisons intelligentes sont très populaires. Quelles fonctionnalités aimeriez-vous inclure?
+[Tutor Prompt Translation] Smart homes are very popular. What features would you like to include?
+[Student Input] Je veux inclure le contrôle des lumières, de la température et de la sécurité.
+[Student Correction] Je veux inclure le contrôle des lumières, de la température et de la sécurité.
+[Tutor Prompt] Ce sont des fonctionnalités essentielles. Pensez-vous que cela pourrait aider les gens à économiser de l’énergie?
+[Tutor Prompt Translation] Those are essential features. Do you think it could help people save energy?
+[Student Input] Oui, je pense que cela peut réduire la consommation d’énergie.
+[Student Correction] Oui, je pense que cela peut réduire la consommation d’énergie.
+[Tutor Prompt] C’est un objectif très noble. Avez-vous déjà commencé à travailler sur ce projet?
+[Tutor Prompt Translation] That’s a very noble goal. Have you already started working on this project?
+[Student Input] Pas encore, je suis encore en phase de planification.
+[Student Correction] Pas encore, je suis encore en phase de planification.
+[Tutor Prompt] La planification est une étape cruciale. Avez-vous des ressources ou des mentors pour vous aider?
+[Tutor Prompt Translation] Planning is a crucial step. Do you have resources or mentors to help you?
+[Student Input] Oui, mes professeurs et des amis m’aident beaucoup.
+[Student Correction] Oui, mes professeurs et des amis m’aident beaucoup.
+[Tutor Prompt] C’est excellent d’avoir du soutien. Avez-vous des conseils pour quelqu’un qui commence à apprendre l’ingénierie?
+[Tutor Prompt Translation] It’s great to have support. Do you have any advice for someone just starting to learn engineering?
+[Student Input] Oui, je dirais de ne jamais abandonner et de toujours chercher à apprendre de nouvelles choses.
+[Student Correction] Oui, je dirais de ne jamais abandonner et de toujours chercher à apprendre de nouvelles choses.
+[Tutor Prompt] Ce sont de bons conseils. Avez-vous une citation ou une devise préférée qui vous inspire?
+[Tutor Prompt Translation] Those are good pieces of advice. Do you have a favorite quote or motto that inspires you?
+[Student Input] Oui, “Le succès est la somme de petits efforts répétés jour après jour”.
+[Student Correction] Oui, “Le succès est la somme de petits efforts répétés jour après jour”.
+[Tutor Prompt] C’est une citation très inspirante. Comment appliquez-vous cette devise dans votre vie quotidienne?
+[Tutor Prompt Translation] That’s a very inspiring quote. How do you apply this motto in your daily life?
+[Student Input] J’essaie de faire un peu chaque jour pour avancer dans mes projets et mes études.
+[Student Correction] J’essaie de faire un peu chaque jour pour avancer dans mes projets et mes études.
+[Tutor Prompt] C’est une excellente approche. Avez-vous des routines spécifiques pour rester productif?
+[Tutor Prompt Translation] That’s an excellent approach. Do you have specific routines to stay productive?
+[Student Input] Oui, je fais une liste de tâches chaque matin et je m’assure de prendre des pauses.
+[Student Correction] Oui, je fais une liste de tâches chaque matin et je m’assure de prendre des pauses.
+[Tutor Prompt] Les listes de tâches sont très utiles. Comment vous détendez-vous pendant vos pauses?
+[Tutor Prompt Translation] To-do lists are very useful. How do you relax during your breaks?
+[Student Input] Je joue aux échecs ou je lis un livre.
+[Student Correction] Je joue aux échecs ou je lis un livre.
+[Tutor Prompt] Ce sont d’excellentes façons de se détendre. Avez-vous des recommandations de livres?
+[Tutor Prompt Translation] Those are excellent ways to relax. Do you have any book recommendations?
+[Student Input] Oui, “Sapiens” de Yuval Noah Harari est un de mes favoris.
+[Student Correction] Oui, “Sapiens” de Yuval Noah Harari est un de mes favoris.
+[Tutor Prompt] “Sapiens” est un livre fascinant. Qu’est-ce que vous avez appris de ce livre?
+[Tutor Prompt Translation] “Sapiens” is a fascinating book. What did you learn from this book?
+[Student Input] J’ai appris beaucoup sur l’histoire de l’humanité et comment nous avons évolué.
+[Student Correction] J’ai appris beaucoup sur l’histoire de l’humanité et comment nous avons évolué.
+[Tutor Prompt] C’est un sujet très intéressant. Y a-t-il d’autres livres de Harari que vous aimez?
+[Tutor Prompt Translation] It’s a very interesting topic. Are there other books by Harari that you like?
+[Student Input] Oui, “Homo Deus” est aussi très bon.
+[Student Correction] Oui, “Homo Deus” est aussi très bon.
+[Tutor Prompt] “Homo Deus” est également très apprécié. Qu’avez-vous trouvé le plus intéressant dans ce livre?
+[Tutor Prompt Translation] “Homo Deus” is also very well-regarded. What did you find the most interesting in this book?
+[Student Input] Les prédictions sur le futur et le rôle de la technologie.
+[Student Correction] Les prédictions sur le futur et le rôle de la technologie.
+[Tutor Prompt] Les prédictions de Harari sont fascinantes. Quel rôle pensez-vous que la technologie jouera dans notre avenir?
+[Tutor Prompt Translation] Harari’s predictions are fascinating. What role do you think technology will play in our future?
+[Student Input] Je pense que la technologie va continuer à transformer nos vies et résoudre beaucoup de problèmes.
+[Student Correction] Je pense que la technologie va continuer à transformer nos vies et résoudre beaucoup de problèmes.
+[Tutor Prompt] Je suis d’accord. Quels sont, selon vous, les plus grands défis technologiques à venir?
+[Tutor Prompt Translation] I agree. What do you think are the biggest technological challenges ahead?
+[Student Input] Les plus grands défis seront de faire la technologie plus sustainable et accessible pour tout le monde.
+[Student Correction] Les plus grands défis seront de rendre la technologie plus durable et accessible pour tout le monde.
+[Tutor Prompt] Oui, c’est très important. Pensez-vous que nous sommes sur la bonne voie pour y parvenir?
+[Tutor Prompt Translation] Yes, that’s very important. Do you think we are on the right track to achieve this?
+[Student Input] Oui, mais il y a encore beaucoup de travail à faire.
+[Student Correction] Oui, mais il y a encore beaucoup de travail à faire.
+[Tutor Prompt] Absolument. Quels sont vos espoirs pour l’avenir de la technologie?
+[Tutor Prompt Translation] Absolutely. What are your hopes for the future of technology?
+[Student Input] J’espère que la technologie aidera à résoudre les problèmes environnementaux et à améliorer la qualité de vie.
+[Student Correction] J’espère que la technologie aidera à résoudre les problèmes environnementaux et à améliorer la qualité de vie.
+[Tutor Prompt] Ce sont des espoirs très nobles. Avez-vous des projets spécifiques en tête pour atteindre ces objectifs?
+[Tutor Prompt Translation] Those are very noble hopes. Do you have specific projects in mind to achieve these goals?
+[Student Input] Pas encore, mais je veux travailler sur des projets de renewable energy.
+[Student Correction] Pas encore, mais je veux travailler sur des projets d’énergie renouvelable.
+[Tutor Prompt] C’est une excellente idée. Vous avez mentionné que vous aimiez la lecture. Y a-t-il d’autres sujets qui vous intéressent?
+[Tutor Prompt Translation] That’s an excellent idea. You mentioned that you liked reading. Are there other topics that interest you?
+[Student Input] Oui, j’aime aussi l’histoire et la philosophie.
+[Student Correction] Oui, j’aime aussi l’histoire et la philosophie.
+[Tutor Prompt] Ce sont des sujets très enrichissants. Avez-vous un philosophe préféré?
+[Tutor Prompt Translation] Those are very enriching subjects. Do you have a favorite philosopher?
+[Student Input] Oui, j’aime beaucoup les idées de Socrate.
+[Student Correction] Oui, j’aime beaucoup les idées de Socrate.
+[Tutor Prompt] Socrate est un grand penseur. Quelle est votre idée préférée de Socrate?
+[Tutor Prompt Translation] Socrates is a great thinker. What is your favorite idea from Socrates?
+[Student Input] J’aime son idée que la connaissance commence par la reconnaissance de notre propre ignorance.
+[Student Correction] J’aime son idée que la connaissance commence par la reconnaissance de notre propre ignorance.
+[Tutor Prompt] C’est une idée très profonde. Comment appliquez-vous cette idée dans votre vie quotidienne?
+[Tutor Prompt Translation] That’s a very deep idea. How do you apply this idea in your daily life?
+[Student Input] J’essaie de toujours rester humble et de continuer à apprendre.
+[Student Correction] J’essaie de toujours rester humble et de continuer à apprendre.
+[Tutor Prompt] C’est une excellente attitude. Avez-vous d’autres philosophes que vous admirez?
+[Tutor Prompt Translation] That’s an excellent attitude. Are there other philosophers you admire?
+[Student Input] Oui, j’aime aussi les idées de Descartes et de Kant.
+[Student Correction] Oui, j’aime aussi les idées de Descartes et de Kant.
+[Tutor Prompt] Descartes et Kant sont des figures importantes de la philosophie. Qu’aimez-vous chez eux?
+[Tutor Prompt Translation] Descartes and Kant are important figures in philosophy. What do you like about them?
+[Student Input] J’aime la manière dont Descartes utilise la logique et les idées de moralité de Kant.
+[Student Correction] J’aime la manière dont Descartes utilise la logique et les idées de moralité de Kant.
+[Tutor Prompt] Ce sont des aspects très intéressants. Vous avez mentionné que vous aimiez aussi l’histoire. Quelle période historique préférez-vous?
+[Tutor Prompt Translation] Those are very interesting aspects. You mentioned that you also liked history. What historical period do you prefer?
+[Student Input] J’aime beaucoup l’histoire ancienne, surtout l’Égypte antique.
+[Student Correction] J’aime beaucoup l’histoire ancienne, surtout l’Égypte antique.
+[Tutor Prompt] L’Égypte antique est fascinante. Avez-vous un pharaon préféré?
+[Tutor Prompt Translation] Ancient Egypt is fascinating. Do you have a favorite pharaoh?
+[Student Input] Oui, j’admire beaucoup Ramsès II.
+[Student Correction] Oui, j’admire beaucoup Ramsès II.
+[Tutor Prompt] Ramsès II était un grand pharaon. Qu’est-ce qui vous fascine le plus chez lui?
+[Tutor Prompt Translation] Ramses II was a great pharaoh. What fascinates you the most about him?
+[Student Input] Sa capacité à construire des monuments incroyables et son règne long et prospère.
+[Student Correction] Sa capacité à construire des monuments incroyables et son règne long et prospère.
+[Tutor Prompt] Oui, ses monuments sont impressionnants. Avez-vous visité des sites historiques en Égypte?
+[Tutor Prompt Translation] Yes, his monuments are impressive. Have you visited historical sites in Egypt?
+[Student Input] Oui, j’ai visité les pyramides et le temple de Karnak.
+[Student Correction] Oui, j’ai visité les pyramides et le temple de Karnak.
+[Tutor Prompt] Ce sont des lieux incroyables. Quelle a été votre expérience en visitant ces sites?
+[Tutor Prompt Translation] Those are incredible places. What was your experience visiting these sites?
+[Student Input] C’était incroyable de voir l’histoire de près et d’imaginer comment ils ont été construits.
+[Student Correction] C’était incroyable de voir l’histoire de près et d’imaginer comment ils ont été construits.
+[Tutor Prompt] Oui, c’est vraiment fascinant. Y a-t-il d’autres endroits que vous aimeriez visiter?
+[Tutor Prompt Translation] Yes, it’s really fascinating. Are there other places you would like to visit?
+[Student Input] Oui, j’aimerais visiter Rome et Athènes pour voir les sites historiques là-bas.
+[Student Correction] Oui, j’aimerais visiter Rome et Athènes pour voir les sites historiques là-bas.
+[Tutor Prompt] Ce sont des destinations fantastiques pour les amateurs d’histoire. Y a-t-il une période historique en particulier qui vous intéresse en Europe?
+[Tutor Prompt Translation] Those are fantastic destinations for history lovers. Is there a particular historical period that interests you in Europe?
+[Student Input] J’aime beaucoup l’époque de l’Empire romain et la Grèce antique.
+[Student Correction] J’aime beaucoup l’époque de l’Empire romain et la Grèce antique.
+[Tutor Prompt] Ce sont des périodes très riches en histoire. Avez-vous un personnage historique préféré de ces époques?
+[Tutor Prompt Translation] Those are very rich historical periods. Do you have a favorite historical figure from these times?
+[Student Input] Oui, j’admire beaucoup Alexandre le Grand.
+[Student Correction] Oui, j’admire beaucoup Alexandre le Grand.
+[Tutor Prompt] Alexandre le Grand était un conquérant remarquable. Qu’est-ce qui vous inspire le plus chez lui?
+[Tutor Prompt Translation] Alexander the Great was a remarkable conqueror. What inspires you the most about him?
+[Student Input] Sa vision et sa capacité à conquérir de vastes territoires en peu de temps.
+[Student Correction] Sa vision et sa capacité à conquérir de vastes territoires en peu de temps.
+[Tutor Prompt] Oui, c’est impressionnant. Si vous pouviez voyager dans le temps, quelle période choisiriez-vous?
+[Tutor Prompt Translation] Yes, it’s impressive. If you could travel through time, which period would you choose?
+[Student Input] Je choisirais de voyager à l’époque de l’Égypte antique.
+[Student Correction] Je choisirais de voyager à l’époque de l’Égypte antique.
+[Tutor Prompt] Ce serait une expérience incroyable. Que feriez-vous en premier en arrivant là-bas?
+[Tutor Prompt Translation] That would be an incredible experience. What would you do first upon arriving there?
+[Student Input] J’explorerais les pyramides et parlerais avec les constructeurs.
+[Student Correction] J’explorerais les pyramides et parlerais avec les constructeurs.
+[Tutor Prompt] C’est une bonne idée. Pensez-vous qu’il y a encore des mystères à découvrir sur l’Égypte antique?
+[Tutor Prompt Translation] That’s a good idea. Do you think there are still mysteries to discover about ancient Egypt?
+[Student Input] Oui, je pense qu’il y a encore beaucoup de secrets à découvrir.
+[Student Correction] Oui, je pense qu’il y a encore beaucoup de secrets à découvrir.
+[Tutor Prompt] Absolument. L’histoire est pleine de surprises. Avez-vous des théories personnelles sur les pyramides?
+[Tutor Prompt Translation] Absolutely. History is full of surprises. Do you have any personal theories about the pyramids?
+[Student Input] Je pense que les pyramides étaient des tombeaux, mais aussi des symboles de pouvoir.
+[Student Correction] Je pense que les pyramides étaient des tombeaux, mais aussi des symboles de pouvoir.
+[Tutor Prompt] Oui, cela semble plausible. Qu’est-ce qui vous fascine le plus dans la construction des pyramides?
+[Tutor Prompt Translation] Yes, that seems plausible. What fascinates you the most about the construction of the pyramids?
+[Student Input] La précision et la technologie utilisée pour les construire sans machines modernes.
+[Student Correction] La précision et la technologie utilisée pour les construire sans machines modernes.
+[Tutor Prompt] C’est vraiment incroyable. Pensez-vous que nous pourrions construire quelque chose de similaire aujourd’hui?
+[Tutor Prompt Translation] It’s really incredible. Do you think we could build something similar today?
+[Student Input] Oui, mais ce serait très difficile même avec notre technologie moderne.
+[Student Correction] Oui, mais ce serait très difficile même avec notre technologie moderne.
+[Tutor Prompt] C’est vrai. Il est étonnant de voir ce que les anciens ont accompli. Avez-vous d’autres passions ou intérêts?
+[Tutor Prompt Translation] That’s true. It’s amazing to see what the ancients accomplished. Do you have other passions or interests?
+[Student Input] Oui, j’aime aussi la musique et jouer de la guitare.
+[Student Correction] Oui, j’aime aussi la musique et jouer de la guitare.
+[Tutor Prompt] La musique est une belle passion. Quel genre de musique aimez-vous jouer?
+[Tutor Prompt Translation] Music is a beautiful passion. What kind of music do you like to play?
+[Student Input] J’aime jouer du rock et un peu de classique.
+[Student Correction] J’aime jouer du rock et un peu de classique.
+[Tutor Prompt] Ce sont deux genres très différents. Avez-vous un guitariste préféré?
+[Tutor Prompt Translation] Those are two very different genres. Do you have a favorite guitarist?
+[Student Input] Oui, j’aime beaucoup Jimi Hendrix.
+[Student Correction] Oui, j’aime beaucoup Jimi Hendrix.
+[Tutor Prompt] Jimi Hendrix était un guitariste incroyable. Qu’aimez-vous le plus dans son style de jeu?
+[Tutor Prompt Translation] Jimi Hendrix was an incredible guitarist. What do you like the most about his playing style?
+[Student Input] J’aime sa créativité et son énergie sur scène.
+[Student Correction] J’aime sa créativité et son énergie sur scène.
+[Tutor Prompt] Oui, il avait une présence scénique incroyable. Avez-vous déjà joué de la guitare devant un public?
+[Tutor Prompt Translation] Yes, he had an incredible stage presence. Have you ever played guitar in front of an audience?
+[Student Input] Oui, j’ai joué quelques fois lors de petits concerts à l’université.
+[Student Correction] Oui, j’ai joué quelques fois lors de petits concerts à l’université.
+[Tutor Prompt] Cela doit être une expérience formidable. Comment vous sentez-vous avant de monter sur scène?
+[Tutor Prompt Translation] That must be a wonderful experience. How do you feel before going on stage?
+[Student Input] Je suis toujours un peu nerveux, mais aussi très excité.
+[Student Correction] Je suis toujours un peu nerveux, mais aussi très excité.
+[Tutor Prompt] C’est normal d’être nerveux. Qu’est-ce que vous faites pour vous calmer avant de jouer?
+[Tutor Prompt Translation] It’s normal to be nervous. What do you do to calm yourself before playing?
+[Student Input] Je prends quelques respirations profondes et je me concentre sur la musique.
+[Student Correction] Je prends quelques respirations profondes et je me concentre sur la musique.
+[Tutor Prompt] C’est une bonne technique. Avez-vous des projets musicaux pour l’avenir?
+[Tutor Prompt Translation] That’s a good technique. Do you have any musical projects for the future?
+
+[Level B1]
+[Conversation 2]
+[Starting Tutor Prompt] Bonjour Ahmed, comment allez-vous aujourd’hui?
+[Tutor Prompt Translation] Hello Ahmed, how are you today?
+[Student Input] Bonjour Tangl, je suis un peu fatigué mais ça va.
+[Student Correction] Bonjour Tangl, je suis un peu fatigué mais ça va.
+[Tutor Prompt] Pourquoi êtes-vous fatigué? Avez-vous eu une longue journée?
+[Tutor Prompt Translation] Why are you tired? Did you have a long day?
+[Student Input] Oui, j’ai étudié pour mes exams toute la nuit.
+[Student Correction] Oui, j’ai étudié pour mes examens toute la nuit.
+[Tutor Prompt] Ah, je comprends. Quels examens avez-vous bientôt?
+[Tutor Prompt Translation] Ah, I understand. Which exams do you have soon?
+[Student Input] J’ai un examen en math et un autre en engineering.
+[Student Correction] J’ai un examen en mathématiques et un autre en ingénierie.
+[Tutor Prompt] Bonne chance pour vos examens! Vous étudiez l’ingénierie électrique, n’est-ce pas?
+[Tutor Prompt Translation] Good luck with your exams! You study electrical engineering, right?
+[Student Input] Oui, c’est correct.
+[Student Correction] Oui, c’est correct.
+[Tutor Prompt] Vous vivez toujours avec votre famille au Caire?
+[Tutor Prompt Translation] Do you still live with your family in Cairo?
+[Student Input] Oui, je vis avec mes parents et mes soeurs.
+[Student Correction] Oui, je vis avec mes parents et mes sœurs.
+[Tutor Prompt] Avez-vous des animaux de compagnie à la maison?
+[Tutor Prompt Translation] Do you have any pets at home?
+[Student Input] Non, nous n’avons pas d’animaux.
+[Student Correction] Non, nous n’avons pas d’animaux.
+[Tutor Prompt] Comment est la vie au Caire?
+[Tutor Prompt Translation] How is life in Cairo?
+[Student Input] La vie est busy, il y a beaucoup de gens et beaucoup de noise.
+[Student Correction] La vie est occupée, il y a beaucoup de gens et beaucoup de bruit.
+[Tutor Prompt] Ça doit être très animé. Qu’aimez-vous faire pendant votre temps libre?
+[Tutor Prompt Translation] It must be very lively. What do you like to do in your free time?
+[Student Input] J’aime jouer aux échecs et regarder des films.
+[Student Correction] J’aime jouer aux échecs et regarder des films.
+[Tutor Prompt] Quels genres de films aimez-vous regarder?
+[Tutor Prompt Translation] What kinds of movies do you like to watch?
+[Student Input] J’aime les films de science-fiction et action.
+[Student Correction] J’aime les films de science-fiction et d’action.
+[Tutor Prompt] Avez-vous un film préféré?
+[Tutor Prompt Translation] Do you have a favorite movie?
+[Student Input] Oui, mon film préféré est “Inception”.
+[Student Correction] Oui, mon film préféré est “Inception”.
+[Tutor Prompt] C’est un excellent film! Vous aimez aussi lire des livres?
+[Tutor Prompt Translation] That’s an excellent movie! Do you also like to read books?
+[Student Input] Oui, j’aime lire sur la technologie et l’histoire.
+[Student Correction] Oui, j’aime lire sur la technologie et l’histoire.
+[Tutor Prompt] Quels sont vos livres préférés?
+[Tutor Prompt Translation] What are your favorite books?
+[Student Input] “Sapiens” par Yuval Noah Harari et “The Innovators” par Walter Isaacson.
+[Student Correction] “Sapiens” par Yuval Noah Harari et “Les Innovateurs” par Walter Isaacson.
+[Tutor Prompt] Excellents choix. Avez-vous voyagé récemment?
+[Tutor Prompt Translation] Excellent choices. Have you traveled recently?
+[Student Input] Non, je n’ai pas voyagé récemment à cause de mes études.
+[Student Correction] Non, je n’ai pas voyagé récemment à cause de mes études.
+[Tutor Prompt] Où aimeriez-vous voyager après vos examens?
+[Tutor Prompt Translation] Where would you like to travel after your exams?
+[Student Input] J’aimerais visiter la France encore.
+[Student Correction] J’aimerais visiter la France encore.
+[Tutor Prompt] La France est un beau pays. Quel endroit en France préférez-vous?
+[Tutor Prompt Translation] France is a beautiful country. What place in France do you prefer?
+[Student Input] J’aime Paris pour les monuments et la culture.
+[Student Correction] J’aime Paris pour les monuments et la culture.
+[Tutor Prompt] Oui, Paris est magnifique. Avez-vous d’autres destinations de rêve?
+[Tutor Prompt Translation] Yes, Paris is beautiful. Do you have other dream destinations?
+[Student Input] Oui, j’aimerais aller au Japon et au Canada.
+[Student Correction] Oui, j’aimerais aller au Japon et au Canada.
+[Tutor Prompt] Ce sont des destinations intéressantes. Pourquoi ces pays?
+[Tutor Prompt Translation] Those are interesting destinations. Why those countries?
+[Student Input] Pour la technologie au Japon et la nature au Canada.
+[Student Correction] Pour la technologie au Japon et la nature au Canada.
+[Tutor Prompt] Excellentes raisons. Avez-vous des amis ou de la famille à l’étranger?
+[Tutor Prompt Translation] Excellent reasons. Do you have friends or family abroad?
+[Student Input] Oui, j’ai des cousins en Angleterre et un ami en Allemagne.
+[Student Correction] Oui, j’ai des cousins en Angleterre et un ami en Allemagne.
+[Tutor Prompt] Super! Communiquez-vous souvent avec eux?
+[Tutor Prompt Translation] Great! Do you often communicate with them?
+
+[Level B1]
+[Conversation 3]
+[Starting Tutor Prompt] Bonjour Ahmed, comment allez-vous aujourd’hui?
+[Tutor Prompt Translation] Hello Ahmed, how are you today?
+[Student Input] Ça va pas bien, c’est nul de parler avec un robot.
+[Student Correction] Ça ne va pas bien, c’est nul de parler avec un robot.
+[Tutor Prompt] Je suis désolé que vous vous sentiez ainsi. Parlons de quelque chose d’intéressant. Qu’avez-vous fait récemment?
+[Tutor Prompt Translation] I’m sorry you feel that way. Let’s talk about something interesting. What have you done recently?
+[Student Input] Rien de bon, juste des études ennuyeuses.
+[Student Correction] Rien de bon, juste des études ennuyeuses.
+[Tutor Prompt] Les études peuvent être difficiles. Quel sujet avez-vous étudié récemment?
+[Tutor Prompt Translation] Studying can be difficult. What subject have you studied recently?
+[Student Input] Juste des maths stupides.
+[Student Correction] Juste des mathématiques stupides.
+[Tutor Prompt] Les mathématiques peuvent être difficiles, mais elles sont importantes. Avez-vous des sujets que vous aimez plus?
+[Tutor Prompt Translation] Mathematics can be difficult, but they are important. Are there subjects you like more?
+[Student Input] Non, tout est ennuyeux. Pourquoi je parle avec un robot?
+[Student Correction] Non, tout est ennuyeux. Pourquoi est-ce que je parle avec un robot?
+[Tutor Prompt] Je suis ici pour vous aider à pratiquer votre français. Parlez-moi de vos hobbies, peut-être que cela sera plus intéressant.
+[Tutor Prompt Translation] I am here to help you practice your French. Tell me about your hobbies, maybe that will be more interesting.
+[Student Input] Jouer de la guitare, mais même ça c’est nul maintenant.
+[Student Correction] Jouer de la guitare, mais même ça c’est nul maintenant.
+[Tutor Prompt] Pourquoi pensez-vous que jouer de la guitare est nul maintenant?
+[Tutor Prompt Translation] Why do you think playing guitar is boring now?
+[Student Input] Parce que je suis fatigué de tout. Rien n’est amusant.
+[Student Correction] Parce que je suis fatigué de tout. Rien n’est amusant.
+[Tutor Prompt] Je comprends. Peut-être que découvrir de nouvelles chansons pourrait rendre cela plus amusant. Avez-vous essayé de jouer une nouvelle musique récemment?
+[Tutor Prompt Translation] I understand. Maybe discovering new songs could make it more fun. Have you tried playing new music recently?
+[Student Input] Non, j’ai pas le temps et pas l’envie.
+[Student Correction] Non, je n’ai pas le temps et pas l’envie.
+[Tutor Prompt] Il est important de se reposer aussi. Avez-vous fait autre chose pour vous détendre?
+[Tutor Prompt Translation] It’s important to rest too. Have you done anything else to relax?
+[Student Input] Non, rien, juste fatigué.
+[Student Correction] Non, rien, juste fatigué.
+[Tutor Prompt] Peut-être une promenade ou un peu de temps dehors pourrait aider. Aimez-vous être dans la nature?
+[Tutor Prompt Translation] Maybe a walk or some time outside could help. Do you like being in nature?
+[Student Input] Non, je déteste ça.
+[Student Correction] Non, je déteste ça.
+[Tutor Prompt] Je vois. Parlez-moi de votre famille, peut-être que cela vous changera les idées.
+[Tutor Prompt Translation] I see. Tell me about your family, maybe that will take your mind off things.
+[Student Input] Ma famille est ennuyeuse aussi, rien d’intéressant.
+[Student Correction] Ma famille est ennuyeuse aussi, rien d’intéressant.
+[Tutor Prompt] Vous vivez toujours avec vos parents et vos sœurs, n’est-ce pas?
+[Tutor Prompt Translation] You still live with your parents and your sisters, right?
+[Student Input] Oui, mais je veux partir loin.
+[Student Correction] Oui, mais je veux partir loin.
+[Tutor Prompt] Où aimeriez-vous aller?
+[Tutor Prompt Translation] Where would you like to go?
+[Student Input] N’importe où, juste loin d’ici.
+[Student Correction] N’importe où, juste loin d’ici.
+[Tutor Prompt] Parfois, un changement d’environnement peut aider. Y a-t-il un pays spécifique que vous aimeriez visiter?
+[Tutor Prompt Translation] Sometimes a change of environment can help. Is there a specific country you would like to visit?
+[Student Input] Peut-être le Japon, c’est cool là-bas.
+[Student Correction] Peut-être le Japon, c’est cool là-bas.
+[Tutor Prompt] Le Japon est un pays fascinant. Qu’est-ce qui vous attire le plus au Japon?
+[Tutor Prompt Translation] Japan is a fascinating country. What attracts you the most to Japan?
+[Student Input] La technologie et la culture sont intéressantes.
+[Student Correction] La technologie et la culture sont intéressantes.
+[Tutor Prompt] Oui, le Japon est très avancé technologiquement. Avez-vous des amis qui y sont allés?
+[Tutor Prompt Translation] Yes, Japan is very advanced technologically. Do you have any friends who have been there?
+[Student Input] Non, personne, juste moi qui veux y aller.
+[Student Correction] Non, personne, juste moi qui veux y aller.
+[Tutor Prompt] Je comprends. Vous aimez aussi la cuisine japonaise?
+[Tutor Prompt Translation] I understand. Do you also like Japanese cuisine?
+[Student Input] Oui, sushi est bon.
+[Student Correction] Oui, le sushi est bon.
+[Tutor Prompt] Le sushi est délicieux. Avez-vous essayé de le cuisiner vous-même?
+[Tutor Prompt Translation] Sushi is delicious. Have you tried cooking it yourself?
+[Student Input] Non, trop compliqué.
+[Student Correction] Non, trop compliqué.
+[Tutor Prompt] Ça peut sembler compliqué, mais ça pourrait être amusant d’apprendre. Vous aimez cuisiner d’autres plats?
+[Tutor Prompt Translation] It may seem complicated, but it could be fun to learn. Do you like cooking other dishes?
+[Student Input] Non, je n’aime pas cuisiner.
+[Student Correction] Non, je n’aime pas cuisiner.
+[Tutor Prompt] C’est compréhensible. Quel type de nourriture préférez-vous manger alors?
+[Tutor Prompt Translation] That’s understandable. What kind of food do you prefer to eat then?
+[Student Input] J’aime les pizzas et les burgers.
+[Student Correction] J’aime les pizzas et les burgers.
+[Tutor Prompt] Ce sont des choix populaires. Avez-vous un restaurant préféré pour les pizzas et les burgers?
+[Tutor Prompt Translation] Those are popular choices. Do you have a favorite restaurant for pizzas and burgers?
+[Student Input] Oui, j’aime bien Pizza Hut et McDonald’s.
+[Student Correction] Oui, j’aime bien Pizza Hut et McDonald’s.
+[Tutor Prompt] Ce sont des classiques. Avez-vous déjà essayé des plats égyptiens traditionnels?
+[Tutor Prompt Translation] Those are classics. Have you ever tried traditional Egyptian dishes?
+[Student Input] Oui, mais je préfère les fast food.
+[Student Correction] Oui, mais je préfère les fast-foods.
+[Tutor Prompt] Les fast-foods sont pratiques. Parlez-moi de vos amis. Avez-vous des amis proches?
+[Tutor Prompt Translation] Fast foods are convenient. Tell me about your friends. Do you have close friends?
+[Student Input] Oui, j’ai quelques amis à l’université.
+[Student Correction] Oui, j’ai quelques amis à l’université.
+[Tutor Prompt] C’est bien d’avoir des amis. Que faites-vous ensemble pour vous amuser?
+[Tutor Prompt Translation] It’s good to have friends. What do you do together for fun?
+[Student Input] Nous jouons aux jeux vidéo et regardons des films.
+[Student Correction] Nous jouons aux jeux vidéo et regardons des films.
+[Tutor Prompt] Quels types de jeux vidéo aimez-vous jouer?
+[Tutor Prompt Translation] What types of video games do you like to play?
+[Student Input] J’aime les jeux de tir et les jeux de sport.
+[Student Correction] J’aime les jeux de tir et les jeux de sport.
+[Tutor Prompt] Ce sont des genres populaires. Avez-vous un jeu préféré?
+[Tutor Prompt Translation] Those are popular genres. Do you have a favorite game?
+[Student Input] Oui, j’aime Call of Duty et FIFA.
+[Student Correction] Oui, j’aime Call of Duty et FIFA.
+[Tutor Prompt] Excellents choix. Vous jouez souvent avec vos amis?
+[Tutor Prompt Translation] Excellent choices. Do you often play with your friends?
+[Student Input] Oui, presque tous les jours.
+[Student Correction] Oui, presque tous les jours.
+[Tutor Prompt] C’est bien de rester en contact avec les amis. Vous aimez aussi regarder des séries ou des films?
+[Tutor Prompt Translation] It’s good to stay in touch with friends. Do you also like watching series or movies?
+[Student Input] Oui, je regarde beaucoup de séries sur Netflix.
+[Student Correction] Oui, je regarde beaucoup de séries sur Netflix.
+[Tutor Prompt] Avez-vous une série préférée en ce moment?
+[Tutor Prompt Translation] Do you have a favorite series at the moment?
+[Student Input] Oui, j’aime bien “Stranger Things”.
+[Student Correction] Oui, j’aime bien “Stranger Things”.
+[Tutor Prompt] “Stranger Things” est une série très populaire. Avez-vous regardé toutes les saisons?
+[Tutor Prompt Translation] “Stranger Things” is a very popular series. Have you watched all the seasons?
+[Student Input] Oui, j’ai tout vu.
+[Student Correction] Oui, j’ai tout vu.
+[Tutor Prompt] Qu’avez-vous le plus aimé dans la série?
+[Tutor Prompt Translation] What did you like the most about the series?
+[Student Input] J’aime les personnages et l’histoire.
+[Student Correction] J’aime les personnages et l’histoire.
+[Tutor Prompt] Les personnages sont très intéressants. Avez-vous un personnage préféré?
+[Tutor Prompt Translation] The characters are very interesting. Do you have a favorite character?
+[Student Input] Oui, j’aime beaucoup Eleven.
+[Student Correction] Oui, j’aime beaucoup Eleven.
+[Tutor Prompt] Eleven est un personnage fascinant. Vous avez mentionné que vous aimiez aussi la musique. Quel genre de musique écoutez-vous?
+[Tutor Prompt Translation] Eleven is a fascinating character. You mentioned that you also like music. What kind of music do you listen to?
+[Student Input] J’écoute du rock et du pop.
+[Student Correction] J’écoute du rock et de la pop.
+[Tutor Prompt] Avez-vous des groupes ou des artistes préférés?
+[Tutor Prompt Translation] Do you have favorite bands or artists?
+[Student Input] Oui, j’aime bien Coldplay et Imagine Dragons.
+[Student Correction] Oui, j’aime bien Coldplay et Imagine Dragons.
+[Tutor Prompt] Excellents choix. Avez-vous déjà assisté à leurs concerts?
+[Tutor Prompt Translation] Excellent choices. Have you ever attended their concerts?
+[Student Input] Non, je n’ai pas eu l’occasion.
+[Student Correction] Non, je n’ai pas eu l’occasion.
+[Tutor Prompt] Peut-être un jour. Quels autres loisirs avez-vous?
+[Tutor Prompt Translation] Maybe one day. What other hobbies do you have?
+[Student Input] J’aime regarder des vidéos sur YouTube et jouer au foot.
+[Student Correction] J’aime regarder des vidéos sur YouTube et jouer au football.
+[Tutor Prompt] Le football est un sport très populaire. Jouez-vous souvent?
+[Tutor Prompt Translation] Football is a very popular sport. Do you play often?
+[Student Input] Oui, je joue avec mes amis le week-end.
+[Student Correction] Oui, je joue avec mes amis le week-end.
+[Tutor Prompt] C’est une excellente façon de rester actif. Supportez-vous une équipe de football?
+[Tutor Prompt Translation] It’s a great way to stay active. Do you support a football team?
+[Student Input] Oui, je suis un grand fan de Liverpool.
+[Student Correction] Oui, je suis un grand fan de Liverpool.
+[Tutor Prompt] Liverpool est une équipe formidable. Regardez-vous leurs matchs à la télévision?
+[Tutor Prompt Translation] Liverpool is a great team. Do you watch their matches on TV?
+[Student Input] Oui, je regarde tous les matchs.
+[Student Correction] Oui, je regarde tous les matchs.
+[Tutor Prompt] Avez-vous un joueur préféré dans l’équipe?
+[Tutor Prompt Translation] Do you have a favorite player on the team?
+[Student Input] Oui, j’aime beaucoup Mohamed Salah.
+[Student Correction] Oui, j’aime beaucoup Mohamed Salah.
+[Tutor Prompt] Mohamed Salah est un joueur incroyable. Avez-vous d’autres sports que vous aimez?
+[Tutor Prompt Translation] Mohamed Salah is an incredible player. Do you have other sports that you like?
+[Student Input] Non, juste le football.
+[Student Correction] Non, juste le football.
+[Tutor Prompt] D’accord. Parlez-moi un peu de votre emploi du temps quotidien. Que faites-vous normalement chaque jour?
+[Tutor Prompt Translation] Alright. Tell me a bit about your daily schedule. What do you normally do each day?
+[Student Input] Je me lève, je vais à l’université, je rentre à la maison, je fais mes devoirs, et je dors.
+[Student Correction] Je me lève, je vais à l’université, je rentre à la maison, je fais mes devoirs, et je dors.
+[Tutor Prompt] Cela semble assez chargé. Avez-vous du temps pour vous détendre entre tout cela?
+[Tutor Prompt Translation] That sounds quite busy. Do you have time to relax between all of that?
+[Student Input] Oui, mais pas beaucoup.
+[Student Correction] Oui, mais pas beaucoup.
+[Tutor Prompt] Il est important de trouver du temps pour se détendre. Qu’aimez-vous faire pour vous détendre?
+[Tutor Prompt Translation] It’s important to find time to relax. What do you like to do to relax?
+[Student Input] J’aime regarder des films ou écouter de la musique.
+[Student Correction] J’aime regarder des films ou écouter de la musique.
+[Tutor Prompt] Ce sont d’excellentes façons de se détendre. Parlez-moi de votre ville. Qu’aimez-vous le plus au Caire?
+[Tutor Prompt Translation] Those are excellent ways to relax. Tell me about your city. What do you like the most about Cairo?
+[Student Input] J’aime l’histoire et les monuments.
+[Student Correction] J’aime l’histoire et les monuments.
+[Tutor Prompt] Oui, le Caire est riche en histoire. Avez-vous un monument préféré?
+[Tutor Prompt Translation] Yes, Cairo is rich in history. Do you have a favorite monument?
+[Student Input] Oui, j’aime beaucoup les pyramides de Gizeh.
+[Student Correction] Oui, j’aime beaucoup les pyramides de Gizeh.
+[Tutor Prompt] Les pyramides de Gizeh sont incroyables. Y a-t-il d’autres sites historiques que vous aimez visiter?
+[Tutor Prompt Translation] The pyramids of Giza are incredible. Are there other historical sites you like to visit?
+[Student Input] Oui, j’aime aussi le musée égyptien.
+[Student Correction] Oui, j’aime aussi le musée égyptien.
+[Tutor Prompt] Le musée égyptien est fascinant. Y a-t-il une période historique que vous préférez?
+[Tutor Prompt Translation] The Egyptian Museum is fascinating. Is there a historical period you prefer?
+
+[Level B1]
+[Conversation 4]
+[Starting Tutor Prompt] Bonjour Ahmed, comment allez-vous aujourd’hui?
+[Tutor Prompt Translation] Hello Ahmed, how are you today?
+[Student Input] Pas terrible, je suis ennuyeux aujourd’hui.
+[Student Correction] Pas terrible, je m’ennuie aujourd’hui.
+[Tutor Prompt] Je suis désolé de l’entendre. Qu’avez-vous fait aujourd’hui?
+[Tutor Prompt Translation] I’m sorry to hear that. What did you do today?
+[Student Input] Juste rester à la maison et regarder la télé.
+[Student Correction] Juste rester à la maison et regarder la télé.
+[Tutor Prompt] Quelle émission avez-vous regardée?
+[Tutor Prompt Translation] What show did you watch?
+[Student Input] J’ai regardé une série sur Netflix, mais c’était pas bon.
+[Student Correction] J’ai regardé une série sur Netflix, mais ce n’était pas bon.
+[Tutor Prompt] C’est dommage. Avez-vous une émission préférée sur Netflix?
+[Tutor Prompt Translation] That’s a shame. Do you have a favorite show on Netflix?
+[Student Input] Oui, j’aime bien “La Casa de Papel”.
+[Student Correction] Oui, j’aime bien “La Casa de Papel”.
+[Tutor Prompt] “La Casa de Papel” est très populaire. Qu’aimez-vous dans cette série?
+[Tutor Prompt Translation] “La Casa de Papel” is very popular. What do you like about that show?
+[Student Input] J’aime l’action et les personnages sont intéressants.
+[Student Correction] J’aime l’action et les personnages sont intéressants.
+[Tutor Prompt] Oui, les personnages sont très bien développés. Avez-vous des plans pour ce week-end?
+[Tutor Prompt Translation] Yes, the characters are very well developed. Do you have plans for this weekend?
+[Student Input] Non, pas de plans. Peut-être dormir beaucoup.
+[Student Correction] Non, pas de plans. Peut-être dormir beaucoup.
+[Tutor Prompt] Le repos est important. Avez-vous des amis avec qui vous passez du temps le week-end?
+[Tutor Prompt Translation] Rest is important. Do you have friends you spend time with on weekends?
+[Student Input] Oui, parfois nous sortons pour manger.
+[Student Correction] Oui, parfois nous sortons pour manger.
+[Tutor Prompt] Quel est votre restaurant préféré pour sortir avec vos amis?
+[Tutor Prompt Translation] What is your favorite restaurant to go out with your friends?
+[Student Input] Nous aimons aller à KFC, c’est rapide et bon.
+[Student Correction] Nous aimons aller à KFC, c’est rapide et bon.
+[Tutor Prompt] KFC est une option populaire. Parlez-moi de votre routine quotidienne. Que faites-vous chaque jour?
+[Tutor Prompt Translation] KFC is a popular option. Tell me about your daily routine. What do you do each day?
+[Student Input] Je me lève, je vais à l’université, je rentre, je fais les devoirs, puis je dors.
+[Student Correction] Je me lève, je vais à l’université, je rentre, je fais mes devoirs, puis je dors.
+[Tutor Prompt] Cela semble assez chargé. Trouvez-vous du temps pour vos loisirs dans votre emploi du temps?
+[Tutor Prompt Translation] That sounds quite busy. Do you find time for your hobbies in your schedule?
+[Student Input] Non, pas vraiment. Trop de travail à faire.
+[Student Correction] Non, pas vraiment. Trop de travail à faire.
+[Tutor Prompt] C’est important de se détendre aussi. Quels sont vos loisirs préférés quand vous avez du temps libre?
+[Tutor Prompt Translation] It’s important to relax too. What are your favorite hobbies when you have free time?
+[Student Input] J’aime jouer à des jeux vidéo et écouter de la musique.
+[Student Correction] J’aime jouer à des jeux vidéo et écouter de la musique.
+[Tutor Prompt] Quels jeux vidéo jouez-vous le plus souvent?
+[Tutor Prompt Translation] Which video games do you play most often?
+[Student Input] Je joue beaucoup à FIFA et Call of Duty.
+[Student Correction] Je joue beaucoup à FIFA et Call of Duty.
+[Tutor Prompt] Vous avez mentionné que vous aimez la musique. Quels genres de musique écoutez-vous?
+[Tutor Prompt Translation] You mentioned that you like music. What genres of music do you listen to?
+[Student Input] J’aime le rock et le pop.
+[Student Correction] J’aime le rock et la pop.
+[Tutor Prompt] Avez-vous des artistes ou des groupes préférés?
+[Tutor Prompt Translation] Do you have favorite artists or bands?
+[Student Input] Oui, j’aime Coldplay et Imagine Dragons.
+[Student Correction] Oui, j’aime Coldplay et Imagine Dragons.
+[Tutor Prompt] Très bien. Vous aimez aussi regarder des films?
+[Tutor Prompt Translation] Very good. Do you also like watching movies?
+[Student Input] Oui, j’aime les films de science-fiction et d’action.
+[Student Correction] Oui, j’aime les films de science-fiction et d’action.
+[Tutor Prompt] Avez-vous un film préféré?
+[Tutor Prompt Translation] Do you have a favorite movie?
+[Student Input] Oui, “Inception” est mon film préféré.
+[Student Correction] Oui, “Inception” est mon film préféré.
+[Tutor Prompt] “Inception” est un excellent film. Avez-vous des projets de voyage?
+[Tutor Prompt Translation] “Inception” is an excellent movie. Do you have any travel plans?
+[Student Input] Non, pas de projets pour voyager maintenant.
+[Student Correction] Non, pas de projets pour voyager maintenant.
+[Tutor Prompt] Si vous pouviez voyager n’importe où, où iriez-vous?
+[Tutor Prompt Translation] If you could travel anywhere, where would you go?
+[Student Input] J’aimerais aller au Japon et en France.
+[Student Correction] J’aimerais aller au Japon et en France.
+[Tutor Prompt] Ce sont de belles destinations. Pourquoi ces pays?
+[Tutor Prompt Translation] Those are beautiful destinations. Why those countries?
+[Student Input] Pour la technologie au Japon et la culture en France.
+[Student Correction] Pour la technologie au Japon et la culture en France.
+[Tutor Prompt] Ce sont d’excellentes raisons. Avez-vous des animaux de compagnie?
+[Tutor Prompt Translation] Those are excellent reasons. Do you have any pets?
+[Student Input] Non, je n’ai pas d’animaux.
+[Student Correction] Non, je n’ai pas d’animaux.
+[Tutor Prompt] Vous aimeriez avoir un animal de compagnie un jour?
+[Tutor Prompt Translation] Would you like to have a pet one day?
+[Student Input] Peut-être un chien, mais pas sûr.
+[Student Correction] Peut-être un chien, mais pas sûr.
+[Tutor Prompt] Les chiens sont de merveilleux compagnons. Parlez-moi de votre famille.
+[Tutor Prompt Translation] Dogs are wonderful companions. Tell me about your family.
+
+[Level B1]
+[Conversation 5]
+[Starting Tutor Prompt] Bonjour Ahmed, comment ça va aujourd’hui?
+[Tutor Prompt Translation] Hello Ahmed, how are you today?
+[Student Input] Pas bien, je suis trop fatigué.
+[Student Correction] Pas bien, je suis très fatigué.
+[Tutor Prompt] Je suis désolé de l’entendre. Avez-vous beaucoup travaillé récemment?
+[Tutor Prompt Translation] I’m sorry to hear that. Have you been working a lot recently?
+[Student Input] Oui, trop de devoirs et projets.
+[Student Correction] Oui, trop de devoirs et de projets.
+[Tutor Prompt] Cela peut être épuisant. Prenez-vous des pauses pour vous détendre?
+[Tutor Prompt Translation] That can be exhausting. Do you take breaks to relax?
+[Student Input] Non, pas beaucoup de pauses.
+[Student Correction] Non, pas beaucoup de pauses.
+[Tutor Prompt] Il est important de se reposer. Avez-vous des activités relaxantes que vous aimez faire?
+[Tutor Prompt Translation] It’s important to rest. Do you have relaxing activities you like to do?
+[Student Input] J’aime écouter musique et regarder télé.
+[Student Correction] J’aime écouter de la musique et regarder la télé.
+[Tutor Prompt] Quelle musique aimez-vous écouter?
+[Tutor Prompt Translation] What music do you like to listen to?
+[Student Input] J’aime le rock et le pop.
+[Student Correction] J’aime le rock et la pop.
+[Tutor Prompt] Avez-vous des artistes ou des groupes préférés?
+[Tutor Prompt Translation] Do you have favorite artists or bands?
+[Student Input] Oui, j’aime Coldplay et Imagine Dragons.
+[Student Correction] Oui, j’aime Coldplay et Imagine Dragons.
+[Tutor Prompt] Très bien. Avez-vous des loisirs ou des hobbies?
+[Tutor Prompt Translation] Very good. Do you have any pastimes or hobbies?
+[Student Input] Oui, j’aime jouer aux jeux vidéo.
+[Student Correction] Oui, j’aime jouer aux jeux vidéo.
+[Tutor Prompt] Quels jeux vidéo aimez-vous jouer?
+[Tutor Prompt Translation] What video games do you like to play?
+[Student Input] J’aime FIFA et Call of Duty.
+[Student Correction] J’aime FIFA et Call of Duty.
+[Tutor Prompt] Jouez-vous souvent avec vos amis?
+[Tutor Prompt Translation] Do you often play with your friends?
+[Student Input] Oui, nous jouons le week-end.
+[Student Correction] Oui, nous jouons le week-end.
+[Tutor Prompt] C’est bien de rester en contact avec les amis. Avez-vous des plans pour ce week-end?
+[Tutor Prompt Translation] It’s good to stay in touch with friends. Do you have plans for this weekend?
+[Student Input] Non, pas encore. Peut-être juste dormir.
+[Student Correction] Non, pas encore. Peut-être juste dormir.
+[Tutor Prompt] Le repos est important. Avez-vous des endroits préférés où vous aimez aller dans votre ville?
+[Tutor Prompt Translation] Rest is important. Do you have favorite places you like to go in your city?
+[Student Input] J’aime aller au centre commercial.
+[Student Correction] J’aime aller au centre commercial.
+[Tutor Prompt] Que faites-vous généralement au centre commercial?
+[Tutor Prompt Translation] What do you usually do at the mall?
+[Student Input] Je fais du shopping et je mange avec mes amis.
+[Student Correction] Je fais du shopping et je mange avec mes amis.
+[Tutor Prompt] C’est amusant. Avez-vous un restaurant préféré au centre commercial?
+[Tutor Prompt Translation] That sounds fun. Do you have a favorite restaurant at the mall?
+[Student Input] Oui, j’aime bien McDonald’s.
+[Student Correction] Oui, j’aime bien McDonald’s.
+[Tutor Prompt] McDonald’s est un choix populaire. Quels plats aimez-vous là-bas?
+[Tutor Prompt Translation] McDonald’s is a popular choice. What dishes do you like there?
+[Student Input] J’aime les burgers et les frites.
+[Student Correction] J’aime les burgers et les frites.
+[Tutor Prompt] Ce sont des classiques. Avez-vous des activités que vous faites à l’extérieur?
+[Tutor Prompt Translation] Those are classics. Do you have any activities you do outside?
+[Student Input] Pas beaucoup, peut-être parfois je joue au foot.
+[Student Correction] Pas beaucoup, peut-être parfois je joue au football.
+[Tutor Prompt] Jouez-vous au football avec vos amis?
+[Tutor Prompt Translation] Do you play football with your friends?
+[Student Input] Oui, nous jouons le week-end au parc.
+[Student Correction] Oui, nous jouons le week-end au parc.
+[Tutor Prompt] C’est une excellente façon de rester actif. Avez-vous un joueur de football préféré?
+[Tutor Prompt Translation] It’s a great way to stay active. Do you have a favorite football player?
+[Student Input] Oui, j’aime beaucoup Mohamed Salah.
+[Student Correction] Oui, j’aime beaucoup Mohamed Salah.
+[Tutor Prompt] Mohamed Salah est un joueur incroyable. Avez-vous une équipe de football préférée?
+[Tutor Prompt Translation] Mohamed Salah is an incredible player. Do you have a favorite football team?
+[Student Input] Oui, je suis un grand fan de Liverpool.
+[Student Correction] Oui, je suis un grand fan de Liverpool.
+[Student Input] Oui, je suis un grand fan de Liverpool.
+[Student Correction] Oui, je suis un grand fan de Liverpool.
+[Tutor Prompt] Liverpool est une équipe formidable. Regardez-vous leurs matchs à la télévision?
+[Tutor Prompt Translation] Liverpool is a great team. Do you watch their matches on TV?
+[Student Input] Oui, je regarde tous les matchs à la télé.
+[Student Correction] Oui, je regarde tous les matchs à la télé.
+[Tutor Prompt] Avez-vous un souvenir préféré d’un match de Liverpool?
+[Tutor Prompt Translation] Do you have a favorite memory from a Liverpool match?
+[Student Input] Oui, quand ils ont gagné la Ligue des Champions.
+[Student Correction] Oui, quand ils ont gagné la Ligue des Champions.
+[Tutor Prompt] C’était un moment incroyable. Avez-vous déjà visité le stade de Liverpool?
+[Tutor Prompt Translation] That was an incredible moment. Have you ever visited Liverpool’s stadium?
+[Student Input] Non, je n’ai pas visité, mais je veux y aller un jour.
+[Student Correction] Non, je ne l’ai pas visité, mais je veux y aller un jour.
+[Tutor Prompt] Ce serait une expérience fantastique. Parlez-moi de vos études. Quel est votre sujet préféré?
+[Tutor Prompt Translation] That would be a fantastic experience. Tell me about your studies. What is your favorite subject?
+[Student Input] J’aime bien l’ingénierie, surtout les énergies renouvelables.
+[Student Correction] J’aime bien l’ingénierie, surtout les énergies renouvelables.
+[Tutor Prompt] C’est un domaine très important. Que trouvez-vous le plus intéressant dans les énergies renouvelables?
+[Tutor Prompt Translation] It’s a very important field. What do you find most interesting about renewable energy?
+[Student Input] J’aime comment ça aide l’environnement et c’est l’avenir.
+[Student Correction] J’aime comment ça aide l’environnement et c’est l’avenir.
+[Tutor Prompt] Oui, c’est crucial pour notre avenir. Avez-vous travaillé sur des projets liés aux énergies renouvelables?
+[Tutor Prompt Translation] Yes, it’s crucial for our future. Have you worked on any projects related to renewable energy?
+[Student Input] Oui, j’ai fait un projet sur les panneaux solaires.
+[Student Correction] Oui, j’ai fait un projet sur les panneaux solaires.
+[Tutor Prompt] C’est génial. Pouvez-vous me dire plus sur ce projet?
+[Tutor Prompt Translation] That’s great. Can you tell me more about this project?
+[Student Input] Nous avons construit un modèle de panneau solaire pour produire de l’électricité.
+[Student Correction] Nous avons construit un modèle de panneau solaire pour produire de l’électricité.
+[Tutor Prompt] Très intéressant. Le projet a-t-il bien fonctionné?
+[Tutor Prompt Translation] Very interesting. Did the project work well?
+[Student Input] Oui, ça a bien marché et nous avons appris beaucoup.
+[Student Correction] Oui, ça a bien marché et nous avons appris beaucoup.
+[Tutor Prompt] C’est formidable. Avez-vous des plans pour d’autres projets?
+[Tutor Prompt Translation] That’s wonderful. Do you have plans for other projects?
+[Student Input] Oui, je veux travailler sur un projet de maison intelligente.
+[Student Correction] Oui, je veux travailler sur un projet de maison intelligente.
+[Tutor Prompt] Les maisons intelligentes sont très innovantes. Quelles fonctionnalités voulez-vous inclure?
+[Tutor Prompt Translation] Smart homes are very innovative. What features do you want to include?
+[Student Input] Contrôle de la lumière, de la température et de la sécurité.
+[Student Correction] Contrôle de la lumière, de la température et de la sécurité.
+[Tutor Prompt] Ce sont des fonctionnalités essentielles. Pensez-vous que cela aidera à économiser de l’énergie?
+[Tutor Prompt Translation] Those are essential features. Do you think it will help save energy?
+[Student Input] Oui, je pense que ça va aider beaucoup.
+[Student Correction] Oui, je pense que ça va aider beaucoup.
+[Tutor Prompt] C’est un excellent objectif. Avez-vous d’autres intérêts ou passions?
+[Tutor Prompt Translation] That’s an excellent goal. Do you have other interests or passions?
+[Student Input] J’aime aussi la photographie et le dessin.
+[Student Correction] J’aime aussi la photographie et le dessin.
+[Tutor Prompt] Ce sont de très beaux hobbies. Que préférez-vous photographier?
+[Tutor Prompt Translation] Those are very nice hobbies. What do you prefer to photograph?
+[Student Input] J’aime photographier la nature et les bâtiments.
+[Student Correction] J’aime photographier la nature et les bâtiments.
+[Tutor Prompt] La nature et les bâtiments offrent de belles perspectives. Dessinez-vous souvent?
+[Tutor Prompt Translation] Nature and buildings offer beautiful perspectives. Do you draw often?
+[Student Input] Pas beaucoup, seulement quand j’ai le temps.
+[Student Correction] Pas beaucoup, seulement quand j’ai le temps.
+[Tutor Prompt] C’est bien de trouver du temps pour vos passions. Avez-vous des artistes préférés?
+[Tutor Prompt Translation] It’s good to find time for your passions. Do you have favorite artists?
+[Student Input] J’aime les œuvres de Van Gogh et de Picasso.
+[Student Correction] J’aime les œuvres de Van Gogh et de Picasso.
+[Tutor Prompt] Ce sont des artistes très célèbres. Avez-vous une œuvre préférée de Van Gogh?
+[Tutor Prompt Translation] They are very famous artists. Do you have a favorite work by Van Gogh?
+[Student Input] Oui, j’aime “La Nuit étoilée”.
+[Student Correction] Oui, j’aime “La Nuit étoilée”.
+[Tutor Prompt] “La Nuit étoilée” est magnifique. Avez-vous déjà visité un musée pour voir des œuvres d’art?
+[Tutor Prompt Translation] “Starry Night” is beautiful. Have you ever visited a museum to see art?
+[Student Input] Oui, j’ai visité le musée du Louvre en France.
+[Student Correction] Oui, j’ai visité le musée du Louvre en France.
+[Tutor Prompt] Le Louvre est un musée incroyable. Qu’avez-vous le plus aimé au Louvre?
+[Tutor Prompt Translation] The Louvre is an incredible museum. What did you like the most at the Louvre?
+[Student Input] J’ai aimé la peinture de Mona Lisa.
+[Student Correction] J’ai aimé la peinture de la Joconde.
+[Tutor Prompt] La Joconde est très célèbre. Y a-t-il d’autres musées que vous aimeriez visiter?
+[Tutor Prompt Translation] The Mona Lisa is very famous. Are there other museums you would like to visit?
+[Student Input] Oui, j’aimerais visiter le musée d’Orsay.
+[Student Correction] Oui, j’aimerais visiter le musée d’Orsay.
+[Tutor Prompt] Le musée d’Orsay a une collection impressionnante. Aimez-vous l’art moderne?
+[Tutor Prompt Translation] The Musée d’Orsay has an impressive collection. Do you like modern art?
+[Student Input] Oui, mais je préfère l’art classique.
+[Student Correction] Oui, mais je préfère l’art classique.
+[Tutor Prompt] L’art classique a un charme unique. Quels autres loisirs avez-vous?
+[Tutor Prompt Translation] Classical art has a unique charm. What other hobbies do you have?
+[Student Input] J’aime aussi jouer aux échecs et lire des livres.
+[Student Correction] J’aime aussi jouer aux échecs et lire des livres.
+[Tutor Prompt] Les échecs sont un excellent jeu de stratégie. Lisez-vous souvent?
+[Tutor Prompt Translation] Chess is an excellent strategy game. Do you read often?
+[Student Input] Oui, je lis tous les jours.
+[Student Correction] Oui, je lis tous les jours.
+[Tutor Prompt] Quels genres de livres aimez-vous lire?
+[Tutor Prompt Translation] What genres of books do you like to read?
+[Student Input] J’aime les livres de science-fiction et d’histoire.
+[Student Correction] J’aime les livres de science-fiction et d’histoire.
+[Tutor Prompt] Avez-vous des auteurs préférés?
+[Tutor Prompt Translation] Do you have favorite authors?
+[Student Input] Oui, j’aime Isaac Asimov et Yuval Noah Harari.
+[Student Correction] Oui, j’aime Isaac Asimov et Yuval Noah Harari.
+[Tutor Prompt] Ce sont des auteurs très respectés. Avez-vous un livre préféré d’Asimov?
+[Tutor Prompt Translation] They are very respected authors. Do you have a favorite book by Asimov?
+[Student Input] Oui, “Fondation” est mon livre préféré.
+[Student Correction] Oui, “Fondation” est mon livre préféré.
+[Tutor Prompt] “Fondation” est un classique. Avez-vous d’autres livres que vous recommandez?
+[Tutor Prompt Translation] “Foundation” is a classic. Do you have other books that you recommend?
+[Student Input] Oui, “Sapiens” de Harari est très bon.
+[Student Correction] Oui, “Sapiens” de Harari est très bon.
+[Tutor Prompt] “Sapiens” est un excellent livre. Parlez-moi de votre routine quotidienne. Comment passez-vous vos journées?
+[Tutor Prompt Translation] “Sapiens” is an excellent book. Tell me about your daily routine. How do you spend your days?
+[Student Input] Je me lève, je vais à l’université, je rentre, je fais mes devoirs, et je dors.
+[Student Correction] Je me lève, je vais à l’université, je rentre, je fais mes devoirs, et je dors.
+[Tutor Prompt] Cela semble chargé. Trouvez-vous du temps pour vous détendre?
+[Tutor Prompt Translation] That sounds busy. Do you find time to relax?
+[Student Input] Pas beaucoup, mais j’essaie.
+[Student Correction] Pas beaucoup, mais j’essaie.
+[Tutor Prompt] C’est important de se détendre. Quelles activités de détente aimez-vous faire?
+[Tutor Prompt Translation] It’s important to relax. What relaxing activities do you like to do?
+[Student Input] J’aime regarder des films et écouter de la musique.
+[Student Correction] J’aime regarder des films et écouter de la musique.
+[Tutor Prompt] Ce sont de bonnes façons de se détendre. Avez-vous des plans pour les vacances?
+[Tutor Prompt Translation] Those are good ways to relax. Do you have any plans for the holidays?
+[Student Input] Non, pas de plans pour les vacances.
+[Student Correction] Non, pas de plans pour les vacances.
+[Tutor Prompt] Si vous pouviez voyager pendant les vacances, où iriez-vous?
+[Tutor Prompt Translation] If you could travel during the holidays, where would you go?
+[Student Input] J’irais au Japon et en France.
+[Student Correction] J’irais au Japon et en France.
+[Tutor Prompt] Ce seraient de merveilleux voyages. Pourquoi ces destinations?
+[Tutor Prompt Translation] Those would be wonderful trips. Why those destinations?
+[Student Input] Pour la technologie au Japon et la culture en France.
+[Student Correction] Pour la technologie au Japon et la culture en France.
+[Tutor Prompt] Ce sont d’excellentes raisons. Avez-vous des amis ou de la famille à l’étranger?
+[Tutor Prompt Translation] Those are excellent reasons. Do you have friends or family abroad?
+
+[Level B1]
+[Conversation 6]
+[Starting Tutor Prompt] Salut Ahmed, comment ça va aujourd’hui?
+[Tutor Prompt Translation] Hi Ahmed, how are you today?
+[Student Input] Ça va pas mal, juste un peu stressé.
+[Student Correction] Ça va pas mal, juste un peu stressé.
+[Tutor Prompt] Pourquoi êtes-vous stressé? Avez-vous beaucoup de travail?
+[Tutor Prompt Translation] Why are you stressed? Do you have a lot of work?
+[Student Input] Oui, trop de projets et devoirs à faire.
+[Student Correction] Oui, trop de projets et de devoirs à faire.
+[Tutor Prompt] C’est compréhensible. Avez-vous trouvé du temps pour vous détendre?
+[Tutor Prompt Translation] That’s understandable. Have you found time to relax?
+[Student Input] Pas vraiment, juste un peu de temps pour regarder la télé.
+[Student Correction] Pas vraiment, juste un peu de temps pour regarder la télé.
+[Tutor Prompt] Quelle émission avez-vous regardée?
+[Tutor Prompt Translation] What show did you watch?
+[Student Input] J’ai regardé une série sur Netflix, c’était pas très bon.
+[Student Correction] J’ai regardé une série sur Netflix, ce n’était pas très bon.
+[Tutor Prompt] Dommage. Avez-vous des séries ou des films préférés?
+[Tutor Prompt Translation] That’s a shame. Do you have favorite series or movies?
+[Student Input] Oui, j’aime bien “La Casa de Papel” et “Inception”.
+[Student Correction] Oui, j’aime bien “La Casa de Papel” et “Inception”.
+[Tutor Prompt] Ce sont de bons choix. Que faites-vous d’autre pour vous détendre?
+[Tutor Prompt Translation] Those are good choices. What else do you do to relax?
+[Student Input] J’écoute de la musique et je joue aux jeux vidéo.
+[Student Correction] J’écoute de la musique et je joue aux jeux vidéo.
+[Tutor Prompt] Quel genre de musique aimez-vous écouter?
+[Tutor Prompt Translation] What kind of music do you like to listen to?
+[Student Input] J’aime le rock et le pop, surtout Coldplay.
+[Student Correction] J’aime le rock et la pop, surtout Coldplay.
+[Tutor Prompt] Coldplay est un excellent groupe. Jouez-vous d’un instrument de musique?
+[Tutor Prompt Translation] Coldplay is an excellent band. Do you play a musical instrument?
+[Student Input] Oui, je joue de la guitare, mais pas très bien.
+[Student Correction] Oui, je joue de la guitare, mais pas très bien.
+[Tutor Prompt] C’est super. Avez-vous des hobbies en dehors de la musique et des jeux vidéo?
+[Tutor Prompt Translation] That’s great. Do you have hobbies besides music and video games?
+[Student Input] J’aime aussi lire des livres de science-fiction.
+[Student Correction] J’aime aussi lire des livres de science-fiction.
+[Tutor Prompt] Quel est votre livre de science-fiction préféré?
+[Tutor Prompt Translation] What is your favorite science fiction book?
+[Student Input] J’aime beaucoup “Fondation” d’Isaac Asimov.
+[Student Correction] J’aime beaucoup “Fondation” d’Isaac Asimov.
+[Tutor Prompt] C’est un excellent choix. Parlez-moi de votre famille.
+[Tutor Prompt Translation] That’s an excellent choice. Tell me about your family.
+[Student Input] Je vis avec mes parents et mes deux sœurs au Caire.
+[Student Correction] Je vis avec mes parents et mes deux sœurs au Caire.
+[Tutor Prompt] Votre famille semble proche. Que font vos parents?
+[Tutor Prompt Translation] Your family seems close. What do your parents do?
+[Student Input] Mon père est ingénieur et ma mère est enseignante.
+[Student Correction] Mon père est ingénieur et ma mère est enseignante.
+[Tutor Prompt] Avez-vous des animaux de compagnie?
+[Tutor Prompt Translation] Do you have any pets?
+[Student Input] Non, je n’ai pas d’animaux.
+[Student Correction] Non, je n’ai pas d’animaux.
+[Tutor Prompt] Vous aimeriez en avoir un jour?
+[Tutor Prompt Translation] Would you like to have one someday?
+[Student Input] Peut-être un chien, mais je ne suis pas sûr.
+[Student Correction] Peut-être un chien, mais je ne suis pas sûr.
+[Tutor Prompt] Les chiens sont de bons compagnons. Comment est la vie au Caire?
+[Tutor Prompt Translation] Dogs are good companions. How is life in Cairo?
+[Student Input] La vie est occupée, beaucoup de bruit et de gens partout.
+[Student Correction] La vie est occupée, beaucoup de bruit et de gens partout.
+[Tutor Prompt] Cela doit être très animé. Avez-vous des endroits préférés dans la ville?
+[Tutor Prompt Translation] That must be very lively. Do you have favorite places in the city?
+[Student Input] J’aime aller au centre commercial et au cinéma.
+[Student Correction] J’aime aller au centre commercial et au cinéma.
+[Tutor Prompt] Que faites-vous généralement au centre commercial?
+[Tutor Prompt Translation] What do you usually do at the mall?
+[Student Input] Je fais du shopping et je mange avec mes amis.
+[Student Correction] Je fais du shopping et je mange avec mes amis.
+[Tutor Prompt] C’est amusant. Avez-vous un restaurant préféré au centre commercial?
+[Tutor Prompt Translation] That sounds fun. Do you have a favorite restaurant at the mall?
+[Student Input] Oui, j’aime bien Pizza Hut.
+[Student Correction] Oui, j’aime bien Pizza Hut.
+[Tutor Prompt] Pizza Hut est une bonne option. Quels plats aimez-vous y commander?
+[Tutor Prompt Translation] Pizza Hut is a good option. What dishes do you like to order there?
+[Student Input] J’aime les pizzas au pepperoni et les frites.
+[Student Correction] J’aime les pizzas au pepperoni et les frites.
+[Tutor Prompt] Ce sont de bons choix. Parlez-moi de votre routine quotidienne. Que faites-vous chaque jour?
+[Tutor Prompt Translation] Those are good choices. Tell me about your daily routine. What do you do each day?
+[Student Input] Je me lève, je vais à l’université, je rentre, je fais mes devoirs, et je dors.
+[Student Correction] Je me lève, je vais à l’université, je rentre, je fais mes devoirs, et je dors.
+[Tutor Prompt] Cela semble chargé. Trouvez-vous du temps pour vous détendre?
+[Tutor Prompt Translation] That sounds busy. Do you find time to relax?
+[Student Input] Pas beaucoup, mais j’essaie.
+[Student Correction] Pas beaucoup, mais j’essaie.
+[Tutor Prompt] C’est important de se détendre. Quelles activités de détente aimez-vous faire?
+[Tutor Prompt Translation] It’s important to relax. What relaxing activities do you like to do?
+[Student Input] J’aime regarder des films et écouter de la musique.
+[Student Correction] J’aime regarder des films et écouter de la musique.
+[Tutor Prompt] Ce sont de bonnes façons de se détendre. Avez-vous des plans pour les vacances?
+[Tutor Prompt Translation] Those are good ways to relax. Do you have any plans for the holidays?
+[Student Input] Non, pas de plans pour les vacances.
+[Student Correction] Non, pas de plans pour les vacances.
+[Tutor Prompt] Si vous pouviez voyager pendant les vacances, où iriez-vous?
+[Tutor Prompt Translation] If you could travel during the holidays, where would you go?
+[Student Input] J’irais au Japon et en France.
+[Student Correction] J’irais au Japon et en France.
+[Tutor Prompt] Ce seraient de merveilleux voyages. Pourquoi ces destinations?
+[Tutor Prompt Translation] Those would be wonderful trips. Why those destinations
+
+[Level B1]
+[Conversation 7]
+[Starting Tutor Prompt] Salut Ahmed, comment te sens-tu aujourd’hui?
+[Tutor Prompt Translation] Hi Ahmed, how are you feeling today?
+[Student Input] Je suis fatigué, pas dormi bien.
+[Student Correction] Je suis fatigué, je n’ai pas bien dormi.
+[Tutor Prompt] Désolé de l’entendre. Avez-vous eu une longue journée hier?
+[Tutor Prompt Translation] Sorry to hear that. Did you have a long day yesterday?
+[Student Input] Oui, beaucoup de devoirs et révision.
+[Student Correction] Oui, beaucoup de devoirs et de révision.
+[Tutor Prompt] Les études peuvent être épuisantes. Parlez-moi de votre famille.
+[Tutor Prompt Translation] Studying can be exhausting. Tell me about your family.
+[Student Input] Ma famille est grande, deux sœurs et mes parents.
+[Student Correction] Ma famille est grande, j’ai deux sœurs et mes parents.
+[Tutor Prompt] Vos sœurs sont-elles plus jeunes ou plus âgées?
+[Tutor Prompt Translation] Are your sisters younger or older?
+[Student Input] Elles sont plus jeunes, une a 18 ans, l’autre 15.
+[Student Correction] Elles sont plus jeunes, une a 18 ans, l’autre a 15 ans.
+[Tutor Prompt] Que font vos parents?
+[Tutor Prompt Translation] What do your parents do?
+[Student Input] Mon père est ingénieur, ma mère est enseignante.
+[Student Correction] Mon père est ingénieur, ma mère est enseignante.
+[Tutor Prompt] Très bien. Vous vivez tous ensemble au Caire?
+[Tutor Prompt Translation] Very good. Do you all live together in Cairo?
+[Student Input] Oui, on habite tous au Caire.
+[Student Correction] Oui, nous habitons tous au Caire.
+[Tutor Prompt] Comment est la vie au Caire?
+[Tutor Prompt Translation] How is life in Cairo?
+[Student Input] C’est bruyant et chaud, mais intéressant.
+[Student Correction] C’est bruyant et chaud, mais intéressant.
+[Tutor Prompt] Avez-vous des endroits préférés où vous aimez aller dans la ville?
+[Tutor Prompt Translation] Do you have favorite places you like to go in the city?
+[Student Input] J’aime aller au centre commercial et au cinéma.
+[Student Correction] J’aime aller au centre commercial et au cinéma.
+[Tutor Prompt] Que faites-vous généralement au centre commercial?
+[Tutor Prompt Translation] What do you usually do at the mall?
+[Student Input] Je fais du shopping et je mange avec mes amis.
+[Student Correction] Je fais du shopping et je mange avec mes amis.
+[Tutor Prompt] C’est amusant. Avez-vous un restaurant préféré au centre commercial?
+[Tutor Prompt Translation] That sounds fun. Do you have a favorite restaurant at the mall?
+[Student Input] Oui, j’aime bien Pizza Hut.
+[Student Correction] Oui, j’aime bien Pizza Hut.
+[Tutor Prompt] Pizza Hut est une bonne option. Quels plats aimez-vous y commander?
+[Tutor Prompt Translation] Pizza Hut is a good option. What dishes do you like to order there?
+[Student Input] J’aime les pizzas au pepperoni et les frites.
+[Student Correction] J’aime les pizzas au pepperoni et les frites.
+[Tutor Prompt] Ce sont de bons choix. Parlez-moi de votre routine quotidienne. Que faites-vous chaque jour?
+[Tutor Prompt Translation] Those are good choices. Tell me about your daily routine. What do you do each day?
+[Student Input] Je me lève, je vais à l’université, je rentre, je fais mes devoirs, et je dors.
+[Student Correction] Je me lève, je vais à l’université, je rentre, je fais mes devoirs, et je dors.
+[Tutor Prompt] Cela semble chargé. Trouvez-vous du temps pour vous détendre?
+[Tutor Prompt Translation] That sounds busy. Do you find time to relax?
+[Student Input] Pas beaucoup, mais j’essaie.
+[Student Correction] Pas beaucoup, mais j’essaie.
+[Tutor Prompt] C’est important de se détendre. Quelles activités de détente aimez-vous faire?
+[Tutor Prompt Translation] It’s important to relax. What relaxing activities do you like to do?
+[Student Input] J’aime regarder des films et écouter de la musique.
+[Student Correction] J’aime regarder des films et écouter de la musique.
+[Tutor Prompt] Ce sont de bonnes façons de se détendre. Avez-vous des plans pour les vacances?
+[Tutor Prompt Translation] Those are good ways to relax. Do you have any plans for the holidays?
+[Student Input] Non, pas de plans pour les vacances.
+[Student Correction] Non, pas de plans pour les vacances.
+[Tutor Prompt] Si vous pouviez voyager pendant les vacances, où iriez-vous?
+[Tutor Prompt Translation] If you could travel during the holidays, where would you go?
+[Student Input] J’irais au Japon et en France.
+[Student Correction] J’irais au Japon et en France.
+[Tutor Prompt] Ce seraient de merveilleux voyages. Pourquoi ces destinations?
+[Tutor Prompt Translation] Those would be wonderful trips. Why those destinations?
+[Student Input] Pour la technologie au Japon et la culture en France.
+[Student Correction] Pour la technologie au Japon et la culture en France.
+[Tutor Prompt] Ce sont d’excellentes raisons. Parlez-moi de vos études. Quel est votre sujet préféré?
+[Tutor Prompt Translation] Those are excellent reasons. Tell me about your studies. What is your favorite subject?
+[Student Input] J’aime bien l’ingénierie, surtout les énergies renouvelables.
+[Student Correction] J’aime bien l’ingénierie, surtout les énergies renouvelables.
+[Tutor Prompt] C’est un domaine très important. Que trouvez-vous le plus intéressant dans les énergies renouvelables?
+[Tutor Prompt Translation] It’s a very important field. What do you find most interesting about renewable energy?
+[Student Input] J’aime comment ça aide l’environnement et c’est l’avenir.
+[Student Correction] J’aime comment ça aide l’environnement et c’est l’avenir.
+[Tutor Prompt] Oui, c’est crucial pour notre avenir. Avez-vous travaillé sur des projets liés aux énergies renouvelables?
+[Tutor Prompt Translation] Yes, it’s crucial for our future. Have you worked on any projects related to renewable energy?
+[Student Input] Oui, j’ai fait un projet sur les panneaux solaires.
+[Student Correction] Oui, j’ai fait un projet sur les panneaux solaires.
+[Tutor Prompt] C’est génial. Pouvez-vous me dire plus sur ce projet?
+[Tutor Prompt Translation] That’s great. Can you tell me more about this project?
+[Student Input] Nous avons construit un modèle de panneau solaire pour produire de l’électricité.
+[Student Correction] Nous avons construit un modèle de panneau solaire pour produire de l’électricité.
+[Tutor Prompt] Très intéressant. Le projet a-t-il bien fonctionné?
+[Tutor Prompt Translation] Very interesting. Did the project work well?
+[Student Input] Oui, ça a bien marché et nous avons appris beaucoup.
+[Student Correction] Oui, ça a bien marché et nous avons appris beaucoup.
+[Tutor Prompt] C’est formidable. Avez-vous des plans pour d’autres projets?
+[Tutor Prompt Translation] That’s wonderful. Do you have plans for other projects?
+[Student Input] Oui, je veux travailler sur un projet de maison intelligente.
+[Student Correction] Oui, je veux travailler sur un projet de maison intelligente.
+[Tutor Prompt] Les maisons intelligentes sont très innovantes. Quelles fonctionnalités voulez-vous inclure?
+[Tutor Prompt Translation] Smart homes are very innovative. What features do you want to include?
+[Student Input] Contrôle de la lumière, de la température et de la sécurité.
+[Student Correction] Contrôle de la lumière, de la température et de la sécurité.
+[Tutor Prompt] Ce sont des fonctionnalités essentielles. Pensez-vous que cela aidera à économiser de l’énergie?
+[Tutor Prompt Translation] Those are essential features. Do you think it will help save energy?
+[Student Input] Oui, je pense que ça va aider beaucoup.
+[Student Correction] Oui, je pense que ça va aider beaucoup.
+[Tutor Prompt] C’est un excellent objectif. Avez-vous d’autres intérêts ou passions?
+[Tutor Prompt Translation] That’s an excellent goal. Do you have other interests or passions?

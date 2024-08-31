@@ -1,0 +1,385 @@
+[Level A2]
+[Conversation 1]
+[Starting Tutor Prompt] Bonjour, comment allez-vous aujourd’hui ?
+[Tutor Prompt Translation] Hello, how are you today?
+[Student Input] Je suis tres bien merci. Et vos?
+[Student Correction] Je suis très bien, merci. Et vous ?
+[Tutor Prompt] Je vais très bien aussi. Comment vous appelez-vous ?
+[Tutor Prompt Translation] I am also very well. What is your name?
+[Student Input] Je m’appelle Emily et j’ai sixteen ans
+[Student Correction] Je m’appelle Emily et j’ai seize ans.
+[Tutor Prompt] Enchanté, Emily. Où habitez-vous ?
+[Tutor Prompt Translation] Nice to meet you, Emily. Where do you live?
+[Student Input] J’habite à Seattle, Washington
+[Student Correction] J’habite à Seattle, Washington.
+[Tutor Prompt] Seattle est une belle ville. Qu’aimez-vous faire pendant votre temps libre ?
+[Tutor Prompt Translation] Seattle is a beautiful city. What do you like to do in your free time?
+[Student Input] J’aime painting et lire books
+[Student Correction] J’aime peindre et lire des livres.
+[Tutor Prompt] Quels types de livres aimez-vous lire ?
+[Tutor Prompt Translation] What types of books do you like to read?
+[Student Input] J’aime lire fiction et fantasy
+[Student Correction] J’aime lire de la fiction et de la fantasy.
+[Tutor Prompt] Avez-vous un auteur préféré ?
+[Tutor Prompt Translation] Do you have a favorite author?
+[Student Input] Oui, mon auteur préféré est J.K. Rowling
+[Student Correction] Oui, mon auteur préféré est J.K. Rowling.
+[Tutor Prompt] Quel est votre livre préféré de J.K. Rowling ?
+[Tutor Prompt Translation] What is your favorite book by J.K. Rowling?
+[Student Input] J’aime Harry Potter et le Prisonnier d’Azkaban
+[Student Correction] J’aime Harry Potter et le Prisonnier d’Azkaban.
+[Tutor Prompt] Pourquoi aimez-vous ce livre ?
+[Tutor Prompt Translation] Why do you like this book?
+[Student Input] Parce que il est very exciting et interesting
+[Student Correction] Parce qu’il est très excitant et intéressant.
+[Tutor Prompt] Avez-vous déjà visité la France ?
+[Tutor Prompt Translation] Have you ever visited France?
+[Student Input] Oui, j’ai visité Paris avec ma famille
+[Student Correction] Oui, j’ai visité Paris avec ma famille.
+[Tutor Prompt] Qu’avez-vous aimé à Paris ?
+[Tutor Prompt Translation] What did you like about Paris?
+[Student Input] J’ai aimé les museums et la food
+[Student Correction] J’ai aimé les musées et la nourriture.
+[Tutor Prompt] Quel est votre musée préféré à Paris ?
+[Tutor Prompt Translation] What is your favorite museum in Paris?
+[Student Input] Mon musée préféré est le Louvre
+[Student Correction] Mon musée préféré est le Louvre.
+[Tutor Prompt] Aimez-vous l’art ?
+[Tutor Prompt Translation] Do you like art?
+[Student Input] Oui, j’aime beaucoup l’art
+[Student Correction] Oui, j’aime beaucoup l’art.
+[Tutor Prompt] Quel genre d’art préférez-vous ?
+[Tutor Prompt Translation] What kind of art do you prefer?
+[Student Input] J’aime le painting et le sculpture
+[Student Correction] J’aime la peinture et la sculpture.
+[Tutor Prompt] Avez-vous un artiste préféré ?
+[Tutor Prompt Translation] Do you have a favorite artist?
+[Student Input] Oui, j’aime Vincent van Gogh
+[Student Correction] Oui, j’aime Vincent van Gogh.
+[Tutor Prompt] Pourquoi aimez-vous Vincent van Gogh ?
+[Tutor Prompt Translation] Why do you like Vincent van Gogh?
+[Student Input] Parce que ses peintures sont très coloré et beautiful
+[Student Correction] Parce que ses peintures sont très colorées et belles.
+[Tutor Prompt] Vous aimez peindre. Que peignez-vous généralement ?
+[Tutor Prompt Translation] You like to paint. What do you usually paint?
+[Student Input] Je peins des landscapes et des portraits
+[Student Correction] Je peins des paysages et des portraits.
+[Tutor Prompt] Avez-vous des hobbies en dehors de la peinture ?
+[Tutor Prompt Translation] Do you have hobbies besides painting?
+[Student Input] Oui, j’aime aussi le debate club
+[Student Correction] Oui, j’aime aussi le club de débat.
+[Tutor Prompt] Pourquoi aimez-vous le club de débat ?
+[Tutor Prompt Translation] Why do you like the debate club?
+[Student Input] Parce que j’aime discuter différents topics et améliorer mon public speaking
+[Student Correction] Parce que j’aime discuter de différents sujets et améliorer mon discours en public.
+[Tutor Prompt] Quels sujets aimez-vous discuter ?
+[Tutor Prompt Translation] What topics do you like to discuss?
+[Student Input] J’aime discuter politics et literature
+[Student Correction] J’aime discuter de politique et de littérature.
+[Tutor Prompt] Avez-vous des frères ou des sœurs ?
+[Tutor Prompt Translation] Do you have any brothers or sisters?
+[Student Input] Oui, j’ai un petit frère qui s’appelle Ethan
+[Student Correction] Oui, j’ai un petit frère qui s’appelle Ethan.
+[Tutor Prompt] Que fait-il ?
+[Tutor Prompt Translation] What does he do?
+[Student Input] Il est étudiant à l’école primaire
+[Student Correction] Il est étudiant à l’école primaire.
+[Tutor Prompt] Vous entendez-vous bien avec lui ?
+[Tutor Prompt Translation] Do you get along well with him?
+[Student Input] Oui, nous jouons souvent ensemble aux jeux vidéo
+[Student Correction] Oui, nous jouons souvent ensemble aux jeux vidéo.
+[Tutor Prompt] C’est bien ! Avez-vous des animaux de compagnie ?
+[Tutor Prompt Translation] That’s nice! Do you have any pets?
+[Student Input] Oui, j’ai un chien et un chat
+[Student Correction] Oui, j’ai un chien et un chat.
+[Tutor Prompt] Comment s’appellent-ils ?
+[Tutor Prompt Translation] What are their names?
+[Student Input] Mon chien s’appelle Max et mon chat s’appelle Luna
+[Student Correction] Mon chien s’appelle Max et mon chat s’appelle Luna.
+[Tutor Prompt] Que faites-vous avec vos animaux de compagnie ?
+[Tutor Prompt Translation] What do you do with your pets?
+[Student Input] J’aime promener Max et jouer avec Luna
+[Student Correction] J’aime promener Max et jouer avec Luna.
+[Tutor Prompt] Avez-vous des vacances préférées ?
+[Tutor Prompt Translation] Do you have a favorite vacation?
+[Student Input] Oui, j’aime aller à la plage avec ma famille
+[Student Correction] Oui, j’aime aller à la plage avec ma famille.
+[Tutor Prompt] Quelle plage aimez-vous visiter ?
+[Tutor Prompt Translation] Which beach do you like to visit?
+[Student Input] Nous aimons aller à la plage de Santa Monica
+[Student Correction] Nous aimons aller à la plage de Santa Monica.
+[Tutor Prompt] Comment voyagez-vous pour aller à la plage ?
+[Tutor Prompt Translation] How do you travel to the beach?
+[Student Input] Nous prenons la voiture
+[Student Correction] Nous prenons la voiture.
+[Tutor Prompt] Vous aimez conduire ?
+[Tutor Prompt Translation] Do you like to drive?
+[Student Input] Je ne conduis pas encore, mais j’apprends
+[Student Correction] Je ne conduis pas encore, mais j’apprends.
+[Tutor Prompt] Est-ce difficile d’apprendre à conduire ?
+[Tutor Prompt Translation] Is it difficult to learn to drive?
+[Student Input] Oui, c’est un peu difficile, mais c’est amusant
+[Student Correction] Oui, c’est un peu difficile, mais c’est amusant.
+[Tutor Prompt] Quel type de voiture aimeriez-vous conduire à l’avenir ?
+[Tutor Prompt Translation] What kind of car would you like to drive in the future?
+[Student Input] J’aimerais conduire une voiture électrique
+[Student Correction] J’aimerais conduire une voiture électrique.
+[Tutor Prompt] Les voitures électriques sont bonnes pour l’environnement. Vous vous intéressez à l’environnement ?
+[Tutor Prompt Translation] Electric cars are good for the environment. Are you interested in the environment?
+[Student Input] Oui, je pense que c’est important de protéger la nature
+[Student Correction] Oui, je pense que c’est important de protéger la nature.
+[Tutor Prompt] Quelles actions faites-vous pour aider l’environnement ?
+[Tutor Prompt Translation] What actions do you take to help the environment?
+[Student Input] Je recycle et j’essaie de utiliser moins de plastique
+[Student Correction] Je recycle et j’essaie d’utiliser moins de plastique.
+[Tutor Prompt] C’est excellent ! Vous avez des projets pour l’avenir ?
+[Tutor Prompt Translation] That’s excellent! Do you have plans for the future?
+[Student Input] Oui, je veux aller à l’université en France
+[Student Correction] Oui, je veux aller à l’université en France.
+[Tutor Prompt] Pourquoi voulez-vous étudier en France ?
+[Tutor Prompt Translation] Why do you want to study in France?
+[Student Input] Parce que j’aime la culture française et j’aime parler français
+[Student Correction] Parce que j’aime la culture française et j’aime parler français.
+[Tutor Prompt] Vous aimez la cuisine française ?
+[Tutor Prompt Translation] Do you like French cuisine?
+[Student Input] Oui, j’adore les croissants et les escargots
+[Student Correction] Oui, j’adore les croissants et les escargots.
+[Tutor Prompt] Avez-vous déjà cuisiné des plats français ?
+[Tutor Prompt Translation] Have you ever cooked French dishes?
+[Student Input] Non, mais j’aimerais apprendre
+[Student Correction] Non, mais j’aimerais apprendre.
+[Tutor Prompt] Quel plat français voudriez-vous apprendre à cuisiner ?
+[Tutor Prompt Translation] Which French dish would you like to learn to cook?
+[Student Input] J’aimerais apprendre à faire des crêpes
+[Student Correction] J’aimerais apprendre à faire des crêpes.
+[Tutor Prompt] Les crêpes sont délicieuses. Vous aimez les fêtes françaises ?
+[Tutor Prompt Translation] Crêpes are delicious. Do you like French holidays?
+[Student Input] Oui, j’aime Noël en France
+[Student Correction] Oui, j’aime Noël en France.
+[Tutor Prompt] Qu’est-ce que vous aimez à propos de Noël en France ?
+[Tutor Prompt Translation] What do you like about Christmas in France?
+[Student Input] J’aime les décorations et la nourriture
+[Student Correction] J’aime les décorations et la nourriture.
+[Tutor Prompt] Vous avez une tradition préférée pendant Noël ?
+[Tutor Prompt Translation] Do you have a favorite tradition during Christmas?
+[Student Input] Oui, j’aime ouvrir les cadeaux avec ma famille
+[Student Correction] Oui, j’aime ouvrir les cadeaux avec ma famille.
+[Tutor Prompt] Avez-vous d’autres fêtes préférées ?
+[Tutor Prompt Translation] Do you have other favorite holidays?
+[Student Input] Oui, j’aime aussi Thanksgiving
+[Student Correction] Oui, j’aime aussi Thanksgiving.
+[Tutor Prompt] Qu’est-ce que vous aimez à propos de Thanksgiving ?
+[Tutor Prompt Translation] What do you like about Thanksgiving?
+[Student Input] J’aime le repas et passer du temps avec ma famille
+[Student Correction] J’aime le repas et passer du temps avec ma famille.
+[Tutor Prompt] Vous aimez cuisiner pour Thanksgiving ?
+[Tutor Prompt Translation] Do you like to cook for Thanksgiving?
+[Student Input] Oui, j’aide ma mère à préparer le dîner
+[Student Correction] Oui, j’aide ma mère à préparer le dîner.
+[Tutor Prompt] Quel est votre plat préféré à Thanksgiving ?
+[Tutor Prompt Translation] What is your favorite dish at Thanksgiving?
+[Student Input] J’aime beaucoup la dinde et la tarte à la citrouille
+[Student Correction] J’aime beaucoup la dinde et la tarte à la citrouille.
+[Tutor Prompt] Avez-vous des traditions spéciales pour Thanksgiving ?
+[Tutor Prompt Translation] Do you have any special traditions for Thanksgiving?
+[Student Input] Oui, nous regardons un film ensemble après le dîner
+[Student Correction] Oui, nous regardons un film ensemble après le dîner.
+[Tutor Prompt] Quel genre de films aimez-vous regarder ?
+[Tutor Prompt Translation] What kind of movies do you like to watch?
+[Student Input] J’aime les films d’aventure et de comédie
+[Student Correction] J’aime les films d’aventure et de comédie.
+[Tutor Prompt] Avez-vous un film préféré ?
+[Tutor Prompt Translation] Do you have a favorite movie?
+
+[Level A2]
+[Conversation 2]
+[Starting Tutor Prompt] Bonjour, Emily. Comment ça va aujourd’hui ?
+[Tutor Prompt Translation] Hello, Emily. How are you today?
+[Student Input] Je suis bon, mais un peu tired
+[Student Correction] Je vais bien, mais un peu fatiguée.
+[Tutor Prompt] Pourquoi êtes-vous fatiguée ?
+[Tutor Prompt Translation] Why are you tired?
+[Student Input] Parce que j’ai eu beaucoup de homework
+[Student Correction] Parce que j’ai eu beaucoup de devoirs.
+[Tutor Prompt] Quels devoirs avez-vous faits ?
+[Tutor Prompt Translation] What homework did you do?
+[Student Input] J’ai fait le math et science homework
+[Student Correction] J’ai fait les devoirs de mathématiques et de sciences.
+[Tutor Prompt] Quels sujets en mathématiques et en sciences avez-vous étudiés ?
+[Tutor Prompt Translation] What topics in math and science did you study?
+[Student Input] En math, j’ai étudié algebra et en science, j’ai étudié les plants
+[Student Correction] En mathématiques, j’ai étudié l’algèbre et en sciences, j’ai étudié les plantes.
+[Tutor Prompt] Les plantes sont intéressantes. Avez-vous une plante préférée ?
+[Tutor Prompt Translation] Plants are interesting. Do you have a favorite plant?
+[Student Input] Oui, j’aime les roses parce que elles sont pretty
+[Student Correction] Oui, j’aime les roses parce qu’elles sont jolies.
+[Tutor Prompt] Avez-vous des roses dans votre jardin ?
+[Tutor Prompt Translation] Do you have roses in your garden?
+[Student Input] Non, mais ma mère a des tulips
+[Student Correction] Non, mais ma mère a des tulipes.
+[Tutor Prompt] C’est joli aussi. Avez-vous d’autres plantes ?
+[Tutor Prompt Translation] That’s pretty too. Do you have other plants?
+[Student Input] Oui, nous avons un arbre et beaucoup de flowers
+[Student Correction] Oui, nous avons un arbre et beaucoup de fleurs.
+[Tutor Prompt] Aimez-vous jardiner ?
+[Tutor Prompt Translation] Do you like gardening?
+[Student Input] Non, je n’aime pas dirt
+[Student Correction] Non, je n’aime pas la terre.
+[Tutor Prompt] Qu’aimez-vous faire pendant votre temps libre ?
+[Tutor Prompt Translation] What do you like to do in your free time?
+[Student Input] J’aime jouer video games et watch TV
+[Student Correction] J’aime jouer aux jeux vidéo et regarder la télévision.
+[Tutor Prompt] Quels jeux vidéo aimez-vous jouer ?
+[Tutor Prompt Translation] What video games do you like to play?
+[Student Input] J’aime jouer Mario Kart et Minecraft
+[Student Correction] J’aime jouer à Mario Kart et à Minecraft.
+[Tutor Prompt] Pourquoi aimez-vous ces jeux ?
+[Tutor Prompt Translation] Why do you like these games?
+[Student Input] Parce que ils sont fun et je joue avec mes amis
+[Student Correction] Parce qu’ils sont amusants et je joue avec mes amis.
+[Tutor Prompt] Quels amis jouent avec vous ?
+[Tutor Prompt Translation] Which friends play with you?
+[Student Input] Mes amis de l’école, John et Sarah
+[Student Correction] Mes amis de l’école, John et Sarah.
+[Tutor Prompt] Est-ce que John et Sarah aiment aussi les jeux vidéo ?
+[Tutor Prompt Translation] Do John and Sarah also like video games?
+[Student Input] Oui, ils aiment beaucoup les jeux vidéo
+[Student Correction] Oui, ils aiment beaucoup les jeux vidéo.
+[Tutor Prompt] Qu’est-ce que vous aimez regarder à la télévision ?
+[Tutor Prompt Translation] What do you like to watch on TV?
+[Student Input] J’aime regarder des series et des films
+[Student Correction] J’aime regarder des séries et des films.
+[Tutor Prompt] Quelle est votre série préférée ?
+[Tutor Prompt Translation] What is your favorite series?
+[Student Input] Ma série préférée est Stranger Things
+[Student Correction] Ma série préférée est Stranger Things.
+[Tutor Prompt] Pourquoi aimez-vous Stranger Things ?
+[Tutor Prompt Translation] Why do you like Stranger Things?
+[Student Input] Parce que il est very exciting et les characters sont interesting
+[Student Correction] Parce qu’elle est très excitante et les personnages sont intéressants.
+[Tutor Prompt] Avez-vous un personnage préféré dans Stranger Things ?
+[Tutor Prompt Translation] Do you have a favorite character in Stranger Things?
+[Student Input] Oui, j’aime Eleven parce qu’elle est strong et brave
+[Student Correction] Oui, j’aime Eleven parce qu’elle est forte et courageuse.
+[Tutor Prompt] Aimez-vous regarder des films aussi ?
+[Tutor Prompt Translation] Do you like to watch movies too?
+[Student Input] Oui, j’aime beaucoup les films d’action
+[Student Correction] Oui, j’aime beaucoup les films d’action.
+[Tutor Prompt] Quel est votre film d’action préféré ?
+[Tutor Prompt Translation] What is your favorite action movie?
+[Student Input] Mon film préféré est Avengers
+[Student Correction] Mon film préféré est Avengers.
+[Tutor Prompt] Avez-vous vu tous les films Avengers ?
+[Tutor Prompt Translation] Have you seen all the Avengers movies?
+[Student Input] Oui, j’ai vu tous les films avec ma famille
+[Student Correction] Oui, j’ai vu tous les films avec ma famille.
+[Tutor Prompt] Qui est votre super-héros préféré ?
+[Tutor Prompt Translation] Who is your favorite superhero?
+[Student Input] J’aime Iron Man parce que il est intelligent et funny
+[Student Correction] J’aime Iron Man parce qu’il est intelligent et drôle.
+[Tutor Prompt] Vous aimez lire des bandes dessinées de super-héros ?
+[Tutor Prompt Translation] Do you like to read superhero comics?
+[Student Input] Non, je ne lis pas des comics, juste des livres
+[Student Correction] Non, je ne lis pas de bandes dessinées, juste des livres.
+[Tutor Prompt] Quels livres aimez-vous lire ?
+[Tutor Prompt Translation] What books do you like to read?
+[Student Input] J’aime lire fiction et fantasy books.
+[Student Correction] J’aime lire des livres de fiction et de fantasy.
+[Tutor Prompt] Quel est votre livre de fiction préféré ?
+[Tutor Prompt Translation] What is your favorite fiction book?
+[Student Input] Mon livre préféré est Harry Potter
+[Student Correction] Mon livre préféré est Harry Potter.
+[Tutor Prompt] Vous aimez les films Harry Potter aussi ?
+[Tutor Prompt Translation] Do you like the Harry Potter movies too?
+[Student Input] Oui, j’aime beaucoup les films
+[Student Correction] Oui, j’aime beaucoup les films.
+[Tutor Prompt] Quel est votre film Harry Potter préféré ?
+[Tutor Prompt Translation] What is your favorite Harry Potter movie?
+[Student Input] J’aime le Prisoner of Azkaban
+[Student Correction] J’aime Le Prisonnier d’Azkaban.
+[Tutor Prompt] Pourquoi aimez-vous ce film ?
+[Tutor Prompt Translation] Why do you like this movie?
+[Student Input] Parce que il est très exciting et un peu scary
+[Student Correction] Parce qu’il est très excitant et un peu effrayant.
+[Tutor Prompt] Avez-vous des animaux de compagnie, Emily ?
+[Tutor Prompt Translation] Do you have any pets, Emily?
+[Student Input] Oui, j’ai un chien et un chat
+[Student Correction] Oui, j’ai un chien et un chat.
+[Tutor Prompt] Comment s’appellent-ils ?
+[Tutor Prompt Translation] What are their names?
+[Student Input] Mon chien s’appelle Max et mon chat s’appelle Luna
+[Student Correction] Mon chien s’appelle Max et mon chat s’appelle Luna.
+[Tutor Prompt] Que faites-vous avec Max et Luna ?
+[Tutor Prompt Translation] What do you do with Max and Luna?
+[Student Input] J’aime jouer avec Max dans le parc et cuddle avec Luna
+[Student Correction] J’aime jouer avec Max dans le parc et câliner avec Luna.
+[Tutor Prompt] Quel âge ont Max et Luna ?
+[Tutor Prompt Translation] How old are Max and Luna?
+[Student Input] Max a trois ans et Luna a cinq ans
+[Student Correction] Max a trois ans et Luna a cinq ans.
+[Tutor Prompt] Où aimez-vous promener Max ?
+[Tutor Prompt Translation] Where do you like to walk Max?
+[Student Input] J’aime promener Max dans le parc près de ma maison
+[Student Correction] J’aime promener Max dans le parc près de chez moi.
+[Tutor Prompt] Aimez-vous la nature ?
+[Tutor Prompt Translation] Do you like nature?
+[Student Input] Oui, j’aime beaucoup la nature, surtout les montagnes
+[Student Correction] Oui, j’aime beaucoup la nature, surtout les montagnes.
+[Tutor Prompt] Avez-vous déjà fait de la randonnée ?
+[Tutor Prompt Translation] Have you ever gone hiking?
+[Student Input] Oui, j’aime faire de la hiking avec ma famille
+[Student Correction] Oui, j’aime faire de la randonnée avec ma famille.
+[Tutor Prompt] Où allez-vous pour faire de la randonnée ?
+[Tutor Prompt Translation] Where do you go hiking?
+[Student Input] Nous allons souvent dans les montagnes près de Seattle
+[Student Correction] Nous allons souvent dans les montagnes près de Seattle.
+[Tutor Prompt] Quelle est votre saison préférée pour la randonnée ?
+[Tutor Prompt Translation] What is your favorite season for hiking?
+[Student Input] J’aime l’été parce que il fait beau et chaud
+[Student Correction] J’aime l’été parce qu’il fait beau et chaud.
+[Tutor Prompt] Avez-vous d’autres hobbies, Emily ?
+[Tutor Prompt Translation] Do you have other hobbies, Emily?
+[Student Input] Oui, j’aime aussi peindre et jouer du piano
+[Student Correction] Oui, j’aime aussi peindre et jouer du piano.
+[Tutor Prompt] Depuis combien de temps jouez-vous du piano ?
+[Tutor Prompt Translation] How long have you been playing the piano?
+[Student Input] Je joue du piano depuis cinq ans
+[Student Correction] Je joue du piano depuis cinq ans.
+[Tutor Prompt] Avez-vous un morceau préféré à jouer ?
+[Tutor Prompt Translation] Do you have a favorite piece to play?
+[Student Input] Oui, j’aime jouer les morceaux de Beethoven
+[Student Correction] Oui, j’aime jouer les morceaux de Beethoven.
+[Tutor Prompt] Vous aimez la musique classique ?
+[Tutor Prompt Translation] Do you like classical music?
+[Student Input] Oui, j’aime beaucoup la musique classique et aussi la pop music
+[Student Correction] Oui, j’aime beaucoup la musique classique et aussi la musique pop.
+[Tutor Prompt] Qui est votre chanteur ou chanteuse préféré de musique pop ?
+[Tutor Prompt Translation] Who is your favorite pop singer?
+[Student Input] J’aime Taylor Swift parce que elle est very talented
+[Student Correction] J’aime Taylor Swift parce qu’elle est très talentueuse.
+[Tutor Prompt] Avez-vous assisté à un concert de Taylor Swift ?
+[Tutor Prompt Translation] Have you attended a Taylor Swift concert?
+[Student Input] Non, mais j’aimerais y aller un jour
+[Student Correction] Non, mais j’aimerais y aller un jour.
+[Tutor Prompt] Vous aimez regarder des concerts à la télévision ?
+[Tutor Prompt Translation] Do you like to watch concerts on TV?
+[Student Input] Oui, j’aime regarder les concerts à la maison avec ma famille
+[Student Correction] Oui, j’aime regarder les concerts à la maison avec ma famille.
+[Tutor Prompt] Avez-vous une émission de télévision préférée ?
+[Tutor Prompt Translation] Do you have a favorite TV show?
+[Student Input] Oui, j’aime beaucoup la série Stranger Things
+[Student Correction] Oui, j’aime beaucoup la série Stranger Things.
+[Tutor Prompt] Qu’aimez-vous dans Stranger Things ?
+[Tutor Prompt Translation] What do you like about Stranger Things?
+[Student Input] J’aime l’histoire et les characters sont interesting
+[Student Correction] J’aime l’histoire et les personnages sont intéressants.
+[Tutor Prompt] Avez-vous des traditions familiales spéciales ?
+[Tutor Prompt Translation] Do you have special family traditions?
+[Student Input] Oui, nous regardons un film ensemble chaque dimanche
+[Student Correction] Oui, nous regardons un film ensemble chaque dimanche.
+[Tutor Prompt] Quels types de films aimez-vous regarder ensemble ?
+[Tutor Prompt Translation] What types of movies do you like to watch together?
+[Student Input] Nous aimons regarder des comédies et des films d’aventure
+[Student Correction] Nous aimons regarder des comédies et des films d’aventure.
+[Tutor Prompt] Avez-vous des vacances préférées ?
+[Tutor Prompt Translation] Do you have a favorite vacation?
